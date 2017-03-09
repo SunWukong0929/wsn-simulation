@@ -1,0 +1,152 @@
+mar 09, 2017 10:58:49 AM jsensor.Main findClass
+GRAVE: null
+java.lang.ClassNotFoundException: projects.Flooding.MessageTransmissionModels.DefaultMessageTransmissionModel
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at jsensor.Main.findClass(Main.java:1489)
+	at jsensor.Main.findClass(Main.java:1500)
+	at jsensor.Main.argsParser(Main.java:412)
+	at jsensor.Main.run(Main.java:152)
+	at jsensor.Main.main(Main.java:79)
+
+mar 09, 2017 10:59:02 AM jsensor.Main findClass
+GRAVE: null
+java.lang.ClassNotFoundException: projects.Flooding.MessageTransmissionModels.DefaultMessageTransmissionModel
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at jsensor.Main.findClass(Main.java:1489)
+	at jsensor.Main.findClass(Main.java:1500)
+	at jsensor.Main.argsParser(Main.java:412)
+	at jsensor.Main.run(Main.java:152)
+	at jsensor.Main.main(Main.java:79)
+
+mar 09, 2017 11:01:41 AM jsensor.Main findClass
+GRAVE: null
+java.lang.ClassNotFoundException: projects.Flooding.MessageTransmissionModels.DefaultMessageTransmissionModel
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at jsensor.Main.findClass(Main.java:1489)
+	at jsensor.Main.findClass(Main.java:1500)
+	at jsensor.Main.argsParser(Main.java:412)
+	at jsensor.Main.run(Main.java:152)
+	at jsensor.Main.main(Main.java:79)
+
+mar 09, 2017 11:02:30 AM jsensor.Main findClass
+GRAVE: null
+java.lang.ClassNotFoundException: projects.Flooding.MessageTransmissionModels.DefaultMessageTransmissionModel
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at jsensor.Main.findClass(Main.java:1489)
+	at jsensor.Main.findClass(Main.java:1500)
+	at jsensor.Main.argsParser(Main.java:412)
+	at jsensor.Main.run(Main.java:152)
+	at jsensor.Main.main(Main.java:79)
+
+mar 09, 2017 11:03:14 AM jsensor.Main findClass
+GRAVE: null
+java.lang.ClassNotFoundException: projects.Flooding.MessageTransmissionModels.DefaultMessageTransmissionModel
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at jsensor.Main.findClass(Main.java:1489)
+	at jsensor.Main.findClass(Main.java:1500)
+	at jsensor.Main.argsParser(Main.java:412)
+	at jsensor.Main.run(Main.java:152)
+	at jsensor.Main.main(Main.java:79)
+
+mar 09, 2017 11:03:33 AM jsensor.Main findClass
+GRAVE: null
+java.lang.ClassNotFoundException: projects.Flooding.MessageTransmissionModels.DefaultMessageTransmissionModel
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at jsensor.Main.findClass(Main.java:1489)
+	at jsensor.Main.findClass(Main.java:1500)
+	at jsensor.Main.argsParser(Main.java:412)
+	at jsensor.Main.run(Main.java:152)
+	at jsensor.Main.main(Main.java:79)
+
+mar 09, 2017 11:06:56 AM jsensor.Main findClass
+GRAVE: null
+java.lang.ClassNotFoundException: projects.MobilePhone_AODV.CellModels.MyCell
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at jsensor.Main.findClass(Main.java:1489)
+	at jsensor.Main.findClass(Main.java:1500)
+	at jsensor.Main.argsParser(Main.java:395)
+	at jsensor.Main.run(Main.java:152)
+	at jsensor.Main.main(Main.java:79)
+
+mar 09, 2017 11:08:51 AM jsensor.Main findClass
+GRAVE: null
+java.lang.ClassNotFoundException: projects.MobilePhone_AODV.CellModels.MyCell
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at jsensor.Main.findClass(Main.java:1489)
+	at jsensor.Main.findClass(Main.java:1500)
+	at jsensor.Main.argsParser(Main.java:395)
+	at jsensor.Main.run(Main.java:152)
+	at jsensor.Main.main(Main.java:79)
+
+mar 09, 2017 11:19:22 AM jsensor.Main argsParser
+GRAVE: null
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at jsensor.Main.argsParser(Main.java:419)
+	at jsensor.Main.run(Main.java:152)
+	at jsensor.Main.main(Main.java:79)
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+
+	at projects.Flooding.MessageTransmissionModels.DefaultMessageTransmissionModel.<init>(DefaultMessageTransmissionModel.java:9)
+	... 7 more
+
+mar 09, 2017 11:20:41 AM jsensor.Main argsParser
+GRAVE: null
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at jsensor.Main.argsParser(Main.java:419)
+	at jsensor.Main.run(Main.java:152)
+	at jsensor.Main.main(Main.java:79)
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+
+	at projects.Flooding.MessageTransmissionModels.DefaultMessageTransmissionModel.<init>(DefaultMessageTransmissionModel.java:9)
+	... 7 more
+

@@ -1,0 +1,18 @@
+time: 20	 sensorID: 1	 sendTo: 340
+time: 30	 sensorID: 2	 sendTo: 758
+time: 40	 sensorID: 3	 sendTo: 239
+time: 50	 sensorID: 4	 sendTo: 365
+time: 60	 sensorID: 5	 sendTo: 435
+time: 70	 sensorID: 6	 sendTo: 687
+time: 80	 sensorID: 7	 sendTo: 369
+time: 90	 sensorID: 340	 receivedFrom: 1	 hops: 7	 msg: Created by the sensor: 1 Path: 460 - 58 - 583 - 254 - 574 - 25 - 340
+time: 90	 sensorID: 8	 sendTo: 346
+time: 100	 sensorID: 9	 sendTo: 332
+time: 190	 sensorID: 758	 receivedFrom: 2	 hops: 16	 msg: Created by the sensor: 2 Path: 20 - 10 - 65 - 907 - 454 - 606 - 84 - 22 - 173 - 307 - 438 - 69 - 260 - 13 - 274 - 758
+time: 200	 sensorID: 369	 receivedFrom: 7	 hops: 12	 msg: Created by the sensor: 7 Path: 113 - 390 - 639 - 182 - 189 - 48 - 540 - 759 - 480 - 79 - 503 - 369
+time: 240	 sensorID: 687	 receivedFrom: 6	 hops: 17	 msg: Created by the sensor: 6 Path: 526 - 204 - 383 - 928 - 15 - 527 - 520 - 599 - 996 - 417 - 439 - 252 - 824 - 630 - 9 - 556 - 687
+time: 240	 sensorID: 435	 receivedFrom: 5	 hops: 18	 msg: Created by the sensor: 5 Path: 696 - 836 - 85 - 141 - 361 - 293 - 815 - 101 - 617 - 535 - 111 - 840 - 449 - 847 - 123 - 32 - 18 - 435
+time: 240	 sensorID: 332	 receivedFrom: 9	 hops: 14	 msg: Created by the sensor: 9 Path: 905 - 768 - 99 - 428 - 413 - 944 - 748 - 160 - 5 - 241 - 303 - 573 - 740 - 332
+time: 240	 sensorID: 239	 receivedFrom: 3	 hops: 20	 msg: Created by the sensor: 3 Path: 167 - 183 - 576 - 38 - 240 - 403 - 303 - 241 - 828 - 924 - 459 - 162 - 648 - 596 - 779 - 643 - 248 - 690 - 202 - 239
+time: 260	 sensorID: 365	 receivedFrom: 4	 hops: 21	 msg: Created by the sensor: 4 Path: 101 - 617 - 535 - 111 - 840 - 449 - 847 - 746 - 642 - 786 - 213 - 243 - 118 - 913 - 843 - 266 - 176 - 438 - 69 - 139 - 365
+time: 350	 sensorID: 346	 receivedFrom: 8	 hops: 26	 msg: Created by the sensor: 8 Path: 44 - 373 - 311 - 86 - 341 - 133 - 180 - 214 - 206 - 235 - 76 - 508 - 889 - 152 - 819 - 114 - 519 - 764 - 405 - 251 - 60 - 29 - 574 - 25 - 110 - 346
