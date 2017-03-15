@@ -1,0 +1,18 @@
+time: 20	 sensorID: 1	 sendTo: 8
+time: 30	 sensorID: 2	 sendTo: 78
+time: 40	 sensorID: 3	 sendTo: 62
+time: 50	 sensorID: 62	 receivedFrom: 3	 hops: 1	 msg: Created by the sensor: 3 Path: 62
+time: 50	 sensorID: 4	 sendTo: 25
+time: 60	 sensorID: 5	 sendTo: 34
+time: 70	 sensorID: 78	 receivedFrom: 2	 hops: 4	 msg: Created by the sensor: 2 Path: 54 - 46 - 18 - 78
+time: 70	 sensorID: 8	 receivedFrom: 1	 hops: 5	 msg: Created by the sensor: 1 Path: 50 - 4 - 98 - 9 - 8
+time: 70	 sensorID: 6	 sendTo: 14
+time: 80	 sensorID: 7	 sendTo: 70
+time: 90	 sensorID: 34	 receivedFrom: 5	 hops: 3	 msg: Created by the sensor: 5 Path: 28 - 2 - 34
+time: 90	 sensorID: 25	 receivedFrom: 4	 hops: 4	 msg: Created by the sensor: 4 Path: 5 - 35 - 13 - 25
+time: 90	 sensorID: 8	 sendTo: 35
+time: 100	 sensorID: 9	 sendTo: 14
+time: 120	 sensorID: 14	 receivedFrom: 9	 hops: 2	 msg: Created by the sensor: 9 Path: 98 - 14
+time: 130	 sensorID: 14	 receivedFrom: 6	 hops: 6	 msg: Created by the sensor: 6 Path: 31 - 25 - 81 - 30 - 70 - 14
+time: 140	 sensorID: 70	 receivedFrom: 7	 hops: 6	 msg: Created by the sensor: 7 Path: 89 - 65 - 40 - 34 - 2 - 70
+time: 140	 sensorID: 35	 receivedFrom: 8	 hops: 5	 msg: Created by the sensor: 8 Path: 9 - 98 - 4 - 5 - 35

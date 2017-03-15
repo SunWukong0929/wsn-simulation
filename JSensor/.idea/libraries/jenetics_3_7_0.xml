@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jenetics-3.7.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jenetics-3.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jenetics.doc-3.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jenetics.tool-3.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jenetix-3.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

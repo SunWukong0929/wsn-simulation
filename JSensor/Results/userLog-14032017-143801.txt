@@ -1,0 +1,18 @@
+time: 20	 sensorID: 1	 sendTo: 581
+time: 30	 sensorID: 2	 sendTo: 248
+time: 40	 sensorID: 3	 sendTo: 30
+time: 50	 sensorID: 4	 sendTo: 110
+time: 60	 sensorID: 5	 sendTo: 223
+time: 70	 sensorID: 6	 sendTo: 370
+time: 80	 sensorID: 7	 sendTo: 250
+time: 90	 sensorID: 8	 sendTo: 810
+time: 100	 sensorID: 9	 sendTo: 131
+time: 130	 sensorID: 223	 receivedFrom: 5	 hops: 7	 msg: Created by the sensor: 5 Path: 684 - 246 - 623 - 787 - 517 - 255 - 223
+time: 140	 sensorID: 248	 receivedFrom: 2	 hops: 11	 msg: Created by the sensor: 2 Path: 28 - 132 - 884 - 54 - 383 - 424 - 293 - 407 - 115 - 396 - 248
+time: 190	 sensorID: 250	 receivedFrom: 7	 hops: 11	 msg: Created by the sensor: 7 Path: 246 - 684 - 453 - 194 - 508 - 287 - 831 - 838 - 705 - 776 - 250
+time: 200	 sensorID: 810	 receivedFrom: 8	 hops: 11	 msg: Created by the sensor: 8 Path: 403 - 731 - 595 - 619 - 367 - 540 - 325 - 752 - 344 - 431 - 810
+time: 220	 sensorID: 581	 receivedFrom: 1	 hops: 20	 msg: Created by the sensor: 1 Path: 480 - 209 - 858 - 129 - 184 - 412 - 813 - 305 - 403 - 8 - 220 - 721 - 197 - 249 - 927 - 818 - 196 - 596 - 271 - 581
+time: 290	 sensorID: 370	 receivedFrom: 6	 hops: 22	 msg: Created by the sensor: 6 Path: 226 - 856 - 448 - 955 - 317 - 257 - 611 - 106 - 292 - 655 - 477 - 813 - 162 - 579 - 684 - 246 - 7 - 948 - 337 - 669 - 371 - 370
+time: 300	 sensorID: 131	 receivedFrom: 9	 hops: 20	 msg: Created by the sensor: 9 Path: 869 - 173 - 190 - 197 - 195 - 302 - 265 - 442 - 811 - 60 - 21 - 255 - 779 - 241 - 78 - 458 - 204 - 25 - 29 - 131
+time: 300	 sensorID: 30	 receivedFrom: 3	 hops: 26	 msg: Created by the sensor: 3 Path: 426 - 274 - 139 - 40 - 96 - 18 - 147 - 371 - 669 - 337 - 948 - 7 - 246 - 684 - 5 - 962 - 164 - 184 - 129 - 858 - 209 - 480 - 996 - 260 - 957 - 30
+time: 350	 sensorID: 110	 receivedFrom: 4	 hops: 30	 msg: Created by the sensor: 4 Path: 920 - 61 - 37 - 435 - 660 - 98 - 12 - 635 - 346 - 124 - 323 - 450 - 86 - 392 - 143 - 453 - 5 - 626 - 144 - 813 - 477 - 655 - 540 - 325 - 752 - 344 - 431 - 810 - 247 - 110

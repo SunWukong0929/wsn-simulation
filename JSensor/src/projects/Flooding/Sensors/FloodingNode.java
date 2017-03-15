@@ -15,8 +15,68 @@ import projects.Flooding.Timers.FloodingTimer;
  * @author danniel & Matheus
  */
 public class FloodingNode extends Node{
-    public LinkedList<Long> messagesIDs; 
 
+    public LinkedList<Long> messagesIDs;
+
+    // Following variables were created by me \/
+
+    // Constants
+
+    public final double  PACKET_SIZE = 400;
+    public final double INITIAL_NODE_ENERGY = 0.5f;
+    public final double IDLE_STATE_ENERGY = this.PACKET_SIZE * 5 * Math.pow(10, -9);
+    public final double ACQUIRE_ENERGY = this.PACKET_SIZE * 50 * Math.pow(10, -9);
+    public final double PROCESS_ENERGY = this.PACKET_SIZE * 30 * Math.pow(10, -9);
+
+    // Variables
+
+    public boolean isDead = false;
+    public double residualEnergy = this.INITIAL_NODE_ENERGY;
+
+    public double dataAggregationEnergy = this.PACKET_SIZE * 5 * Math.pow(10, -9);
+    public double amplificationEnergyPerArea =  this.PACKET_SIZE * 5 * Math.pow(10, -12);
+
+    // Finish him /\
+
+    public synchronized double getEnergyExpenditure(boolean isClusterHead) {
+        float energyExpenditure = 0;
+
+        if (isClusterHead) {
+
+            double distanceToSync = distanceToSync();
+
+            if (distanceToSync <= this.getCommunicationRadio()) {
+                // Transmitting
+                energyExpenditure += this.IDLE_STATE_ENERGY + this.PACKET_SIZE * Math.pow(distanceToSync, -4);
+                // Receiving
+                energyExpenditure += this.getNeighbours().size() * this.IDLE_STATE_ENERGY + this.PACKET_SIZE * Math.pow(distanceToSync, -4);
+            } else {
+                // Transmitting
+                energyExpenditure += this.IDLE_STATE_ENERGY + this.PACKET_SIZE * Math.pow(distanceToSync, -2);
+                // Receiving
+                energyExpenditure += this.getNeighbours().size() * this.IDLE_STATE_ENERGY + this.PACKET_SIZE * Math.pow(distanceToSync, -2);
+            }
+        }
+
+        energyExpenditure += (ACQUIRE_ENERGY + PROCESS_ENERGY);
+
+        return energyExpenditure;
+    }
+
+    public synchronized double distanceToSync() {
+        return Math.sqrt(
+                Math.pow(this.position.getPosX(), 2) + Math.pow(this.position.getPosY(), 2)
+        );
+    }
+
+    public synchronized void updateResidualEnergy(boolean isClusterHead) {
+        this.residualEnergy -= this.getEnergyExpenditure(isClusterHead);
+
+        if (this.residualEnergy < 0) {
+            this.residualEnergy = 0;
+            this.isDead = true;
+        }
+    }
     @Override
     public void handleMessages(Inbox inbox) {    	
        while(inbox.hasMoreMessages())
