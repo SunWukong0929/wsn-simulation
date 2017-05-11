@@ -33,11 +33,11 @@ public class CustomGlobal extends AbsCustomGlobal {
             expectedEnergyExpenditure += node.getEnergyExpenditure(thisChrom.get(i));
             sumDistances += node.distanceToSync();
 
-            fitness += node.residualEnergy/node.INITIAL_NODE_ENERGY;
+            fitness += node.residualEnergy / node.INITIAL_NODE_ENERGY;
         }
 
-        fitness += extremeEnergyExpenditure/expectedEnergyExpenditure;
-        fitness += 1/sumDistances;
+        fitness += extremeEnergyExpenditure / expectedEnergyExpenditure;
+        fitness += 1 / sumDistances;
 
         // DESCONSIDERE \/
         fitness = Math.pow(fitness, 12);
@@ -52,7 +52,7 @@ public class CustomGlobal extends AbsCustomGlobal {
     public boolean hasTerminated() {
         return false;
     }
-    
+
     @Override
     public void preRun() {
 
@@ -78,12 +78,13 @@ public class CustomGlobal extends AbsCustomGlobal {
 
         // UPDATE RESIDUAL ENERGY FOR EACH NODE
 
-        for (int i = 1; i <= result.length(); i++) {
+        for (int i = 1; i <= result.getChromosome().as(BitChromosome.class).toCanonicalString().length(); i++) {
             FloodingNode node = (FloodingNode) Jsensor.runtime.getSensorByID(i);
-            node.updateResidualEnergy(result.getChromosome().getGene(i-1).getBit());
+            if (node.residualEnergy > 0)
+                node.updateResidualEnergy(result.getChromosome().getGene(i - 1).getBit());
         }
-        System.out.println("Residual Energy First Node:\n" + ((FloodingNode) Jsensor.runtime.getSensorByID(1)).residualEnergy);
-        System.out.println("RESULT:\n" + result.getChromosome().as(BitChromosome.class).toCanonicalString());
+//        System.out.println("Residual Energy First Node:\n" + ((FloodingNode) Jsensor.runtime.getSensorByID(1)).residualEnergy);
+//        System.out.println("RESULT:\n" + result.getChromosome().as(BitChromosome.class).toCanonicalString());
 
     }
 
@@ -92,7 +93,7 @@ public class CustomGlobal extends AbsCustomGlobal {
 
     }
 
-	@Override
-	public void postRun() {
+    @Override
+    public void postRun() {
     }
 }
