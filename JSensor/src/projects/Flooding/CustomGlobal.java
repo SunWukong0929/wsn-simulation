@@ -60,8 +60,7 @@ public class CustomGlobal extends AbsCustomGlobal {
 
     @Override
     public void preRound() {
-
-        // GA START
+        end();
         BitChromosome initial = BitChromosome.of(1000);
 
         Factory<Genotype<BitGene>> gtf =
@@ -83,8 +82,6 @@ public class CustomGlobal extends AbsCustomGlobal {
             if (node.residualEnergy > 0)
                 node.updateResidualEnergy(result.getChromosome().getGene(i - 1).getBit());
         }
-//        System.out.println("Residual Energy First Node:\n" + ((FloodingNode) Jsensor.runtime.getSensorByID(1)).residualEnergy);
-//        System.out.println("RESULT:\n" + result.getChromosome().as(BitChromosome.class).toCanonicalString());
 
     }
 
@@ -95,5 +92,15 @@ public class CustomGlobal extends AbsCustomGlobal {
 
     @Override
     public void postRun() {
+
+    }
+
+    private boolean end() {
+        for (int i = 1; i <= Jsensor.getNumNodes(); i++) {
+            if (!((FloodingNode) Jsensor.getNodeByID(i)).isDead)
+                return true;
+        }
+        Jsensor.runtime.setAbort(true);
+        return false;
     }
 }

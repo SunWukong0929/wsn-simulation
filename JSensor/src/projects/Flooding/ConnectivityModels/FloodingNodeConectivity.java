@@ -2,6 +2,7 @@ package projects.Flooding.ConnectivityModels;
 
 import jsensor.nodes.Node;
 import jsensor.nodes.models.ConnectivityModel;
+import projects.Flooding.Sensors.FloodingNode;
 
 
 /**
