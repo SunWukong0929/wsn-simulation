@@ -9,6 +9,13 @@ import jsensor.runtime.Jsensor;
 import jsensor.nodes.Node;
 import jsensor.nodes.messages.Inbox;
 import jsensor.nodes.messages.Message;
+import org.jenetics.BitChromosome;
+import org.jenetics.BitGene;
+import org.jenetics.Genotype;
+import org.jenetics.engine.Engine;
+import org.jenetics.engine.EvolutionResult;
+import org.jenetics.util.Factory;
+import projects.Flooding.CustomGlobal;
 import projects.Flooding.Messages.FloodingMessage;
 import projects.Flooding.Messages.FloodingMessageControl;
 import projects.Flooding.Timers.FloodingTimer;
@@ -32,7 +39,7 @@ public class FloodingNode extends Node {
     public final double PROCESS_ENERGY = this.PACKET_SIZE * 30 * Math.pow(10, -9);
 
     // Variables
-
+    public boolean sleep = false;
     public boolean isDead = false;
     public double residualEnergy = this.INITIAL_NODE_ENERGY;
 
@@ -96,7 +103,7 @@ public class FloodingNode extends Node {
 
     @Override
     public void handleMessages(Inbox inbox) {
-        if (!isDead) {
+        if (!isDead && !sleep) {
             while (inbox.hasMoreMessages()) {
 
                 Message message = inbox.getNextMessage();
@@ -136,16 +143,6 @@ public class FloodingNode extends Node {
         }
     }
 
-    public void notification() {
-        if (!isDead) {
-            Jsensor.log("time: " + Jsensor.currentTime +
-                    "\t sender: " + this.getID() +
-                    "\t residualEnergy: " + residualEnergy);
-            FloodingMessageControl control = new FloodingMessageControl(residualEnergy, this, 0, this.getID());
-            this.multicast(control);
-        }
-    }
-
     @Override
     public void onCreation() {
         //initializes the list of messages received by the node.
@@ -160,5 +157,52 @@ public class FloodingNode extends Node {
             FloodingTimer ft = new FloodingTimer();
             ft.startRelative(time, this);
         }
+    }
+
+    public void select() {
+        BitChromosome initial = BitChromosome.of(Jsensor.getNumNodes());
+
+        Factory<Genotype<BitGene>> gtf =
+                Genotype.of(initial);
+
+        Engine<BitGene, Integer> engine = Engine
+                .builder(CustomGlobal::eval, gtf)
+                .build();
+
+        Genotype<BitGene> result = engine.stream()
+                .limit(500)
+                .collect(EvolutionResult.toBestGenotype());
+        // GA FINISH
+
+        // UPDATE RESIDUAL ENERGY FOR EACH NODE
+
+        for (int i = 1; i <= result.getChromosome().as(BitChromosome.class).toCanonicalString().length(); i++) {
+            FloodingNode node = (FloodingNode) Jsensor.runtime.getSensorByID(i);
+            if (node.residualEnergy > 0)
+                node.updateResidualEnergy(result.getChromosome().getGene(i - 1).getBit());
+        }
+        for (int i = 2; i <= result.getChromosome().as(BitChromosome.class).toCanonicalString().length() ; i++) {
+//            this.unicast();
+            // set wake up or rest
+        }
+        System.out.println("RESULT:\n" + );
+    }
+
+    public void notification() {
+        if (!isDead && !sleep) {
+            Jsensor.log("time: " + Jsensor.currentTime +
+                    "\t sender: " + this.getID() +
+                    "\t residualEnergy: " + residualEnergy);
+            FloodingMessageControl control = new FloodingMessageControl(residualEnergy, this, 0, this.getID());
+            this.multicast(control);
+        }
+    }
+
+    public void rest() {
+        sleep = true;
+    }
+
+    public void wakeUp() {
+        sleep = false;
     }
 }

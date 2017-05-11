@@ -16,7 +16,7 @@ import org.jenetics.util.Factory;
 
 public class CustomGlobal extends AbsCustomGlobal {
 
-    private synchronized static Integer eval(Genotype<BitGene> gt) {
+    public synchronized static Integer eval(Genotype<BitGene> gt) {
 
         BitChromosome thisChrom = gt.getChromosome().as(BitChromosome.class);
 
@@ -39,13 +39,9 @@ public class CustomGlobal extends AbsCustomGlobal {
         fitness += extremeEnergyExpenditure / expectedEnergyExpenditure;
         fitness += 1 / sumDistances;
 
-        // DESCONSIDERE \/
-        fitness = Math.pow(fitness, 12);
-        int fitnessNormalized = (int) fitness;
-        Integer fit = (Integer) fitnessNormalized;
 
         // IMPORTANTE É SSO AUQI
-        return fit;
+        return (int) Math.pow(fitness, 12);
     }
 
     @Override
@@ -55,33 +51,13 @@ public class CustomGlobal extends AbsCustomGlobal {
 
     @Override
     public void preRun() {
-
+        ((FloodingNode) Jsensor.getNodeByID(1)).residualEnergy = 9999.0f;
     }
 
     @Override
     public void preRound() {
         end();
-        BitChromosome initial = BitChromosome.of(1000);
-
-        Factory<Genotype<BitGene>> gtf =
-                Genotype.of(initial);
-
-        Engine<BitGene, Integer> engine = Engine
-                .builder(CustomGlobal::eval, gtf)
-                .build();
-
-        Genotype<BitGene> result = engine.stream()
-                .limit(500)
-                .collect(EvolutionResult.toBestGenotype());
-        // GA FINISH
-
-        // UPDATE RESIDUAL ENERGY FOR EACH NODE
-
-        for (int i = 1; i <= result.getChromosome().as(BitChromosome.class).toCanonicalString().length(); i++) {
-            FloodingNode node = (FloodingNode) Jsensor.runtime.getSensorByID(i);
-            if (node.residualEnergy > 0)
-                node.updateResidualEnergy(result.getChromosome().getGene(i - 1).getBit());
-        }
+        ((FloodingNode) Jsensor.getNodeByID(1)).select();
 
     }
 
@@ -96,7 +72,7 @@ public class CustomGlobal extends AbsCustomGlobal {
     }
 
     private boolean end() {
-        for (int i = 1; i <= Jsensor.getNumNodes(); i++) {
+        for (int i = 2; i <= Jsensor.getNumNodes(); i++) {
             if (!((FloodingNode) Jsensor.getNodeByID(i)).isDead)
                 return true;
         }
