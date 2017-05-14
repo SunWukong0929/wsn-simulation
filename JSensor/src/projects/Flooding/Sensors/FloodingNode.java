@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedList;
 
+import com.sun.deploy.util.StringUtils;
 import jsensor.runtime.Jsensor;
 import jsensor.nodes.Node;
 import jsensor.nodes.messages.Inbox;
@@ -18,6 +19,7 @@ import org.jenetics.util.Factory;
 import projects.Flooding.CustomGlobal;
 import projects.Flooding.Messages.FloodingMessage;
 import projects.Flooding.Messages.FloodingMessageControl;
+import projects.Flooding.Messages.HeaderControl;
 import projects.Flooding.Timers.FloodingTimer;
 
 
@@ -33,15 +35,15 @@ public class FloodingNode extends Node {
     // Constants
 
     public final double PACKET_SIZE = 400;
-    public final double INITIAL_NODE_ENERGY = 0.05f;
+    public final double INITIAL_NODE_ENERGY = 0.0005f;
     public final double IDLE_STATE_ENERGY = this.PACKET_SIZE * 5 * Math.pow(10, -9);
     public final double ACQUIRE_ENERGY = this.PACKET_SIZE * 50 * Math.pow(10, -9);
     public final double PROCESS_ENERGY = this.PACKET_SIZE * 30 * Math.pow(10, -9);
 
     // Variables
-    public boolean sleep = false;
     public boolean isDead = false;
     public double residualEnergy = this.INITIAL_NODE_ENERGY;
+    public String heads;
 
     public double dataAggregationEnergy = this.PACKET_SIZE * 5 * Math.pow(10, -9);
     public double amplificationEnergyPerArea = this.PACKET_SIZE * 5 * Math.pow(10, -12);
@@ -58,6 +60,7 @@ public class FloodingNode extends Node {
             double distanceToSync = distanceToSync();
 
             if (distanceToSync <= this.getCommunicationRadio()) {
+
                 // Transmitting
                 energyExpenditure += this.IDLE_STATE_ENERGY + this.PACKET_SIZE * Math.pow(distanceToSync, -4);
                 // Receiving
@@ -90,7 +93,7 @@ public class FloodingNode extends Node {
 
     public synchronized void updateResidualEnergy(boolean isClusterHead) {
         this.residualEnergy -= this.getEnergyExpenditure(isClusterHead);
-//        System.out.println("residualEnergy: " + this.residualEnergy + " : ID: " + this.getID());
+        System.out.println("residualEnergy: " + this.residualEnergy + " : ID: " + this.getID());
         if (this.residualEnergy < 0) {
             this.residualEnergy = 0;
             this.isDead = true;
@@ -103,11 +106,10 @@ public class FloodingNode extends Node {
 
     @Override
     public void handleMessages(Inbox inbox) {
-        if (!isDead && !sleep) {
+        if (!isDead) {
             while (inbox.hasMoreMessages()) {
 
                 Message message = inbox.getNextMessage();
-
                 if (message instanceof FloodingMessage) {
                     FloodingMessage floodingMessage = (FloodingMessage) message;
 
@@ -129,6 +131,20 @@ public class FloodingNode extends Node {
 
                     }
                 }
+                if (message instanceof HeaderControl) {
+                    HeaderControl floodingMessage = (HeaderControl) message;
+
+                    if (this.messagesIDs.contains(floodingMessage.getID())) {
+                        continue;
+                    }
+
+                    this.messagesIDs.add(floodingMessage.getID());
+
+                    if (!floodingMessage.getHeads().equals(heads)) {
+                        this.heads = floodingMessage.getHeads();
+                    }
+                    this.multicast(message);
+                }
                 if (message instanceof FloodingMessageControl) {
                     FloodingMessageControl floodingMessage = (FloodingMessageControl) message;
 
@@ -146,6 +162,7 @@ public class FloodingNode extends Node {
     @Override
     public void onCreation() {
         //initializes the list of messages received by the node.
+        this.heads = String.join("", Collections.nCopies(Jsensor.getNumNodes(), "1"));
         this.neighbors = new ArrayList<>(Collections.nCopies(Jsensor.getNumNodes() + 1, 0.0));
 
         this.messagesIDs = new LinkedList<Long>();
@@ -181,15 +198,14 @@ public class FloodingNode extends Node {
             if (node.residualEnergy > 0)
                 node.updateResidualEnergy(result.getChromosome().getGene(i - 1).getBit());
         }
-        for (int i = 2; i <= result.getChromosome().as(BitChromosome.class).toCanonicalString().length() ; i++) {
-//            this.unicast();
-            // set wake up or rest
+        for (int i = 2; i <= result.getChromosome().as(BitChromosome.class).toCanonicalString().length(); i++) {
+            this.multicast(new HeaderControl(result.getChromosome().as(BitChromosome.class).toCanonicalString(),
+                    0, this.getChunk()));
         }
-        System.out.println("RESULT:\n" + );
     }
 
     public void notification() {
-        if (!isDead && !sleep) {
+        if (!isDead) {
             Jsensor.log("time: " + Jsensor.currentTime +
                     "\t sender: " + this.getID() +
                     "\t residualEnergy: " + residualEnergy);
@@ -198,11 +214,4 @@ public class FloodingNode extends Node {
         }
     }
 
-    public void rest() {
-        sleep = true;
-    }
-
-    public void wakeUp() {
-        sleep = false;
-    }
 }

@@ -2,13 +2,10 @@ package projects.Flooding;
 
 import jsensor.runtime.AbsCustomGlobal;
 import jsensor.runtime.Jsensor;
-import projects.Flooding.Sensors.FloodingNode;
 import org.jenetics.BitChromosome;
 import org.jenetics.BitGene;
 import org.jenetics.Genotype;
-import org.jenetics.engine.Engine;
-import org.jenetics.engine.EvolutionResult;
-import org.jenetics.util.Factory;
+import projects.Flooding.Sensors.FloodingNode;
 
 /**
  * @author danniel & Matheus
@@ -26,17 +23,19 @@ public class CustomGlobal extends AbsCustomGlobal {
         double expectedEnergyExpenditure = 0;
         double sumDistances = 0;
 
-        for (int i = 1; i <= gt.length(); i++) {
+        for (int i = 1; i <= thisChrom.length(); i++) {
+//            System.out.println(i);
+
             FloodingNode node = (FloodingNode) Jsensor.runtime.getSensorByID(i);
 
-            extremeEnergyExpenditure += node.getEnergyExpenditure(true);
-            expectedEnergyExpenditure += node.getEnergyExpenditure(thisChrom.get(i));
+//            extremeEnergyExpenditure += node.getEnergyExpenditure(true);
+//            expectedEnergyExpenditure += node.getEnergyExpenditure(thisChrom.get(i));
             sumDistances += node.distanceToSync();
-
+//
             fitness += node.residualEnergy / node.INITIAL_NODE_ENERGY;
         }
 
-        fitness += extremeEnergyExpenditure / expectedEnergyExpenditure;
+//        fitness += extremeEnergyExpenditure / expectedEnergyExpenditure;
         fitness += 1 / sumDistances;
 
 
@@ -57,9 +56,11 @@ public class CustomGlobal extends AbsCustomGlobal {
     @Override
     public void preRound() {
         end();
+        send();
         ((FloodingNode) Jsensor.getNodeByID(1)).select();
 
     }
+
 
     @Override
     public void postRound() {
@@ -68,6 +69,15 @@ public class CustomGlobal extends AbsCustomGlobal {
 
     @Override
     public void postRun() {
+
+    }
+
+    private void send() {
+        for (int i = 0; i < Jsensor.getNumNodes(); i++) {
+            if (Math.random() * 100 < 30) {
+
+            }
+        }
 
     }
 

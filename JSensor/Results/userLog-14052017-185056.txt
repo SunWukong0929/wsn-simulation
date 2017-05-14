@@ -1,0 +1,3508 @@
+time: 0	 sender: 997	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 993	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 989	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 985	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 981	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 977	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 973	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 969	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 965	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 961	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 957	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 953	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 949	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 945	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 941	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 937	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 933	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 929	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 925	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 921	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 917	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 913	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 909	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 905	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 901	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 897	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 893	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 889	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 885	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 881	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 877	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 873	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 869	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 865	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 861	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 857	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 853	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 849	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 845	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 841	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 837	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 833	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 829	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 825	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 821	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 817	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 813	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 809	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 805	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 801	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 797	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 793	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 789	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 785	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 781	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 777	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 773	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 769	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 765	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 761	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 757	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 753	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 749	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 745	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 741	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 737	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 733	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 729	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 725	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 721	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 717	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 713	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 709	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 705	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 701	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 697	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 693	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 689	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 685	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 681	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 677	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 673	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 669	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 665	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 661	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 657	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 653	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 649	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 645	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 641	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 637	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 633	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 629	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 625	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 621	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 617	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 613	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 609	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 605	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 601	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 597	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 593	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 589	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 585	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 581	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 577	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 573	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 569	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 565	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 561	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 557	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 553	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 549	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 545	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 541	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 537	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 533	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 529	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 525	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 521	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 517	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 513	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 509	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 505	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 501	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 497	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 493	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 489	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 485	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 481	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 477	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 473	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 469	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 465	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 461	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 457	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 453	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 449	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 445	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 441	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 437	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 433	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 429	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 425	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 421	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 417	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 413	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 409	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 405	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 401	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 397	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 393	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 389	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 385	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 381	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 377	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 373	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 369	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 365	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 361	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 357	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 353	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 349	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 345	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 341	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 337	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 333	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 329	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 325	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 321	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 317	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 313	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 309	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 305	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 301	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 297	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 293	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 289	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 285	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 281	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 277	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 273	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 269	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 265	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 261	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 257	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 253	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 249	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 245	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 241	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 237	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 233	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 229	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 225	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 221	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 217	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 213	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 209	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 205	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 201	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 197	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 193	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 189	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 185	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 181	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 177	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 173	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 169	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 165	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 161	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 157	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 153	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 149	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 145	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 141	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 137	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 133	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 129	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 125	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 121	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 117	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 113	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 109	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 105	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 101	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 97	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 93	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 89	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 85	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 81	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 77	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 73	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 69	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 65	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 61	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 57	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 53	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 49	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 45	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 41	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 37	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 33	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 29	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 25	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 21	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 17	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 13	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 9	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 5	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 1	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 998	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 994	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 990	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 986	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 982	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 978	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 974	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 970	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 966	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 962	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 958	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 954	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 950	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 946	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 942	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 938	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 934	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 930	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 926	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 922	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 918	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 914	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 910	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 906	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 902	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 898	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 894	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 890	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 886	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 882	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 878	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 874	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 870	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 866	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 862	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 858	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 854	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 850	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 846	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 842	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 838	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 834	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 830	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 826	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 822	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 818	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 814	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 810	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 806	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 802	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 798	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 794	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 790	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 786	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 782	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 778	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 774	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 770	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 766	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 762	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 758	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 754	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 750	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 746	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 742	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 738	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 734	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 730	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 726	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 722	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 718	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 714	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 710	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 706	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 702	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 698	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 694	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 690	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 686	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 682	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 678	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 674	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 670	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 666	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 662	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 658	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 654	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 650	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 646	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 642	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 638	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 634	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 630	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 626	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 622	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 618	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 614	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 610	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 606	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 602	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 598	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 594	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 590	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 586	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 582	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 578	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 574	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 570	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 566	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 562	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 558	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 554	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 550	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 546	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 542	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 538	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 534	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 530	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 526	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 522	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 518	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 514	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 510	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 506	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 502	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 498	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 494	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 490	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 486	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 482	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 478	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 474	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 470	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 466	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 462	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 458	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 454	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 450	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 446	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 442	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 438	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 434	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 430	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 426	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 422	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 418	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 414	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 410	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 406	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 402	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 398	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 394	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 390	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 386	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 382	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 378	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 374	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 370	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 366	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 362	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 358	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 354	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 350	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 346	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 342	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 338	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 334	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 330	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 326	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 322	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 318	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 314	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 310	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 306	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 302	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 298	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 294	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 290	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 286	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 282	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 278	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 274	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 270	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 266	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 262	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 258	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 254	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 250	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 246	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 242	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 238	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 234	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 230	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 226	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 222	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 218	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 214	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 210	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 206	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 202	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 198	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 194	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 190	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 186	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 182	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 178	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 174	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 170	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 166	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 162	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 158	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 154	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 150	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 146	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 142	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 138	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 134	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 130	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 126	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 122	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 118	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 114	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 110	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 106	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 102	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 98	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 94	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 90	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 86	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 82	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 78	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 74	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 70	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 66	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 62	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 58	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 54	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 50	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 46	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 42	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 38	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 34	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 30	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 26	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 22	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 18	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 14	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 10	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 6	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 2	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 999	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 995	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 991	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 987	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 983	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 979	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 975	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 971	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 967	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 963	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 959	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 955	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 951	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 947	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 943	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 939	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 935	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 931	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 927	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 923	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 919	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 915	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 911	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 907	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 903	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 899	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 895	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 891	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 887	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 883	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 879	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 875	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 871	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 867	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 863	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 859	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 855	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 851	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 847	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 843	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 839	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 835	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 831	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 827	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 823	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 819	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 815	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 811	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 807	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 803	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 799	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 795	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 791	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 787	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 783	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 779	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 775	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 771	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 767	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 763	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 759	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 755	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 751	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 747	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 743	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 739	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 735	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 731	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 727	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 723	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 719	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 715	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 711	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 707	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 703	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 699	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 695	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 691	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 687	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 683	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 679	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 675	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 671	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 667	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 663	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 659	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 655	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 651	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 647	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 643	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 639	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 635	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 631	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 627	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 623	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 619	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 615	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 611	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 607	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 603	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 599	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 595	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 591	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 587	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 583	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 579	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 575	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 571	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 567	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 563	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 559	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 555	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 551	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 547	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 543	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 539	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 535	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 531	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 527	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 523	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 519	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 515	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 511	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 507	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 503	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 499	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 495	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 491	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 487	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 483	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 479	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 475	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 471	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 467	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 463	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 459	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 455	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 451	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 447	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 443	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 439	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 435	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 431	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 427	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 423	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 419	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 415	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 411	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 407	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 403	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 399	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 395	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 391	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 387	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 383	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 379	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 375	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 371	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 367	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 363	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 359	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 355	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 351	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 347	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 343	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 339	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 335	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 331	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 327	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 323	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 319	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 315	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 311	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 307	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 303	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 299	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 295	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 291	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 287	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 283	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 279	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 275	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 271	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 267	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 263	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 259	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 255	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 251	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 247	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 243	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 239	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 235	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 231	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 227	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 223	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 219	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 215	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 211	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 207	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 203	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 199	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 195	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 191	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 187	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 183	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 179	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 175	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 171	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 167	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 163	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 159	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 155	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 151	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 147	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 143	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 139	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 135	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 131	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 127	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 123	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 119	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 115	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 111	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 107	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 103	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 99	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 95	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 91	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 87	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 83	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 79	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 75	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 71	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 67	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 63	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 59	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 55	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 51	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 47	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 43	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 39	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 35	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 31	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 27	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 23	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 19	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 15	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 11	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 7	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 3	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 1000	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 996	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 992	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 988	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 984	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 980	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 976	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 972	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 968	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 964	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 960	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 956	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 952	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 948	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 944	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 940	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 936	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 932	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 928	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 924	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 920	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 916	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 912	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 908	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 904	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 900	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 896	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 892	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 888	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 884	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 880	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 876	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 872	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 868	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 864	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 860	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 856	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 852	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 848	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 844	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 840	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 836	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 832	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 828	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 824	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 820	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 816	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 812	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 808	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 804	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 800	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 796	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 792	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 788	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 784	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 780	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 776	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 772	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 768	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 764	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 760	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 756	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 752	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 748	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 744	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 740	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 736	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 732	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 728	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 724	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 720	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 716	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 712	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 708	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 704	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 700	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 696	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 692	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 688	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 684	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 680	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 676	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 672	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 668	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 664	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 660	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 656	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 652	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 648	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 644	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 640	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 636	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 632	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 628	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 624	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 620	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 616	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 612	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 608	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 604	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 600	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 596	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 592	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 588	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 584	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 580	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 576	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 572	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 568	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 564	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 560	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 556	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 552	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 548	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 544	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 540	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 536	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 532	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 528	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 524	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 520	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 516	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 512	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 508	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 504	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 500	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 496	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 492	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 488	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 484	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 480	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 476	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 472	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 468	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 464	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 460	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 456	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 452	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 448	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 444	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 440	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 436	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 432	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 428	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 424	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 420	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 416	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 412	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 408	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 404	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 400	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 396	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 392	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 388	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 384	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 380	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 376	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 372	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 368	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 364	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 360	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 356	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 352	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 348	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 344	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 340	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 336	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 332	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 328	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 324	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 320	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 316	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 312	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 308	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 304	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 300	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 296	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 292	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 288	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 284	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 280	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 276	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 272	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 268	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 264	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 260	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 256	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 252	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 248	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 244	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 240	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 236	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 232	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 228	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 224	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 220	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 216	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 212	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 208	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 204	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 200	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 196	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 192	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 188	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 184	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 180	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 176	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 172	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 168	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 164	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 160	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 156	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 152	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 148	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 144	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 140	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 136	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 132	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 128	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 124	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 120	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 116	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 112	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 108	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 104	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 100	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 96	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 92	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 88	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 84	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 80	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 76	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 72	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 68	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 64	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 60	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 56	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 52	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 48	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 44	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 40	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 36	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 32	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 28	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 24	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 20	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 16	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 12	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 8	 residualEnergy: 5.000000237487257E-4
+time: 0	 sender: 4	 residualEnergy: 5.000000237487257E-4
+Node: 1 is dead.
+time: 0	 sender: 2	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 3	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 4	 residualEnergy: 2.363577950745821E-4
+Node: 5 is dead.
+time: 0	 sender: 6	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 7	 residualEnergy: 1.6511781723238528E-4
+Node: 8 is dead.
+Node: 9 is dead.
+Node: 10 is dead.
+Node: 11 is dead.
+time: 0	 sender: 12	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 13	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 14	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 15	 residualEnergy: 4.680000238295179E-4
+Node: 16 is dead.
+time: 0	 sender: 17	 residualEnergy: 1.721516891848296E-4
+Node: 18 is dead.
+time: 0	 sender: 19	 residualEnergy: 8.351128781214356E-5
+time: 0	 sender: 20	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 21	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 22	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 23	 residualEnergy: 4.680000238295179E-4
+Node: 24 is dead.
+time: 0	 sender: 25	 residualEnergy: 4.680000238295179E-4
+Node: 26 is dead.
+time: 0	 sender: 27	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 28	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 29	 residualEnergy: 4.680000238295179E-4
+Node: 30 is dead.
+time: 0	 sender: 31	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 32	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 33	 residualEnergy: 4.680000238295179E-4
+Node: 34 is dead.
+Node: 35 is dead.
+Node: 36 is dead.
+time: 0	 sender: 37	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 38	 residualEnergy: 4.680000238295179E-4
+Node: 39 is dead.
+Node: 40 is dead.
+Node: 41 is dead.
+time: 0	 sender: 42	 residualEnergy: 4.680000238295179E-4
+Node: 43 is dead.
+time: 0	 sender: 44	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 45	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 46	 residualEnergy: 4.680000238295179E-4
+Node: 47 is dead.
+time: 0	 sender: 48	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 49	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 50	 residualEnergy: 3.623426891863346E-7
+Node: 51 is dead.
+time: 0	 sender: 52	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 53	 residualEnergy: 4.680000238295179E-4
+Node: 54 is dead.
+Node: 55 is dead.
+time: 0	 sender: 56	 residualEnergy: 9.05333727132529E-5
+time: 0	 sender: 57	 residualEnergy: 4.680000238295179E-4
+Node: 58 is dead.
+time: 0	 sender: 59	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 60	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 61	 residualEnergy: 1.9195402273908257E-4
+Node: 62 is dead.
+Node: 63 is dead.
+Node: 64 is dead.
+Node: 65 is dead.
+Node: 66 is dead.
+time: 0	 sender: 67	 residualEnergy: 1.3726891484111547E-4
+Node: 68 is dead.
+time: 0	 sender: 69	 residualEnergy: 4.680000238295179E-4
+Node: 70 is dead.
+time: 0	 sender: 71	 residualEnergy: 4.680000238295179E-4
+Node: 72 is dead.
+Node: 73 is dead.
+time: 0	 sender: 74	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 75	 residualEnergy: 4.680000238295179E-4
+Node: 76 is dead.
+time: 0	 sender: 77	 residualEnergy: 4.680000238295179E-4
+Node: 78 is dead.
+time: 0	 sender: 79	 residualEnergy: 4.680000238295179E-4
+Node: 80 is dead.
+time: 0	 sender: 81	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 82	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 83	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 84	 residualEnergy: 4.680000238295179E-4
+Node: 85 is dead.
+Node: 86 is dead.
+time: 0	 sender: 87	 residualEnergy: 4.680000238295179E-4
+Node: 88 is dead.
+time: 0	 sender: 89	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 90	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 91	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 92	 residualEnergy: 4.680000238295179E-4
+Node: 93 is dead.
+Node: 94 is dead.
+Node: 95 is dead.
+Node: 96 is dead.
+Node: 97 is dead.
+time: 0	 sender: 98	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 99	 residualEnergy: 4.680000238295179E-4
+Node: 100 is dead.
+time: 0	 sender: 101	 residualEnergy: 4.680000238295179E-4
+Node: 102 is dead.
+time: 0	 sender: 103	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 104	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 105	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 106	 residualEnergy: 2.362301165703684E-4
+time: 0	 sender: 107	 residualEnergy: 4.680000238295179E-4
+Node: 108 is dead.
+time: 0	 sender: 109	 residualEnergy: 4.680000238295179E-4
+Node: 110 is dead.
+time: 0	 sender: 111	 residualEnergy: 4.680000238295179E-4
+Node: 112 is dead.
+time: 0	 sender: 113	 residualEnergy: 2.7936941478401423E-5
+time: 0	 sender: 114	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 115	 residualEnergy: 8.19269334897399E-5
+time: 0	 sender: 116	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 117	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 118	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 119	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 120	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 121	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 122	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 123	 residualEnergy: 1.0573718464002013E-4
+time: 0	 sender: 124	 residualEnergy: 4.680000238295179E-4
+Node: 125 is dead.
+Node: 126 is dead.
+time: 0	 sender: 127	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 128	 residualEnergy: 4.680000238295179E-4
+Node: 129 is dead.
+time: 0	 sender: 130	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 131	 residualEnergy: 1.102806709241122E-4
+time: 0	 sender: 132	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 133	 residualEnergy: 4.680000238295179E-4
+Node: 134 is dead.
+time: 0	 sender: 135	 residualEnergy: 4.680000238295179E-4
+Node: 136 is dead.
+Node: 137 is dead.
+Node: 138 is dead.
+time: 0	 sender: 139	 residualEnergy: 4.680000238295179E-4
+Node: 140 is dead.
+time: 0	 sender: 141	 residualEnergy: 4.680000238295179E-4
+Node: 142 is dead.
+time: 0	 sender: 143	 residualEnergy: 2.2190622985363007E-4
+Node: 144 is dead.
+time: 0	 sender: 145	 residualEnergy: 8.518272079527378E-5
+time: 0	 sender: 146	 residualEnergy: 4.680000238295179E-4
+Node: 147 is dead.
+time: 0	 sender: 148	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 149	 residualEnergy: 7.879408076405525E-5
+time: 0	 sender: 150	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 151	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 152	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 153	 residualEnergy: 4.680000238295179E-4
+Node: 154 is dead.
+Node: 155 is dead.
+Node: 156 is dead.
+Node: 157 is dead.
+time: 0	 sender: 158	 residualEnergy: 4.680000238295179E-4
+Node: 159 is dead.
+time: 0	 sender: 160	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 161	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 162	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 163	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 164	 residualEnergy: 4.680000238295179E-4
+Node: 165 is dead.
+time: 0	 sender: 166	 residualEnergy: 4.680000238295179E-4
+Node: 167 is dead.
+time: 0	 sender: 168	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 169	 residualEnergy: 4.680000238295179E-4
+Node: 170 is dead.
+time: 0	 sender: 171	 residualEnergy: 1.9779967260546982E-4
+time: 0	 sender: 172	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 173	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 174	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 175	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 176	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 177	 residualEnergy: 9.94641741272062E-5
+time: 0	 sender: 178	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 179	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 180	 residualEnergy: 5.8605801314115524E-5
+time: 0	 sender: 181	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 182	 residualEnergy: 1.7637087148614228E-4
+time: 0	 sender: 183	 residualEnergy: 4.680000238295179E-4
+Node: 184 is dead.
+time: 0	 sender: 185	 residualEnergy: 2.7509784558787942E-5
+Node: 186 is dead.
+Node: 187 is dead.
+time: 0	 sender: 188	 residualEnergy: 2.44468537857756E-4
+time: 0	 sender: 189	 residualEnergy: 4.680000238295179E-4
+Node: 190 is dead.
+Node: 191 is dead.
+Node: 192 is dead.
+time: 0	 sender: 193	 residualEnergy: 1.7239240696653724E-4
+time: 0	 sender: 194	 residualEnergy: 2.199789450969547E-4
+time: 0	 sender: 195	 residualEnergy: 5.098874680697918E-6
+Node: 196 is dead.
+time: 0	 sender: 197	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 198	 residualEnergy: 4.680000238295179E-4
+Node: 199 is dead.
+Node: 200 is dead.
+time: 0	 sender: 201	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 202	 residualEnergy: 1.268371706828475E-4
+time: 0	 sender: 203	 residualEnergy: 6.51214795652777E-5
+time: 0	 sender: 204	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 205	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 206	 residualEnergy: 2.0185313769616187E-4
+Node: 207 is dead.
+time: 0	 sender: 208	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 209	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 210	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 211	 residualEnergy: 4.680000238295179E-4
+Node: 212 is dead.
+time: 0	 sender: 213	 residualEnergy: 4.680000238295179E-4
+Node: 214 is dead.
+Node: 215 is dead.
+Node: 216 is dead.
+time: 0	 sender: 217	 residualEnergy: 8.851688471622765E-5
+time: 0	 sender: 218	 residualEnergy: 4.680000238295179E-4
+Node: 219 is dead.
+Node: 220 is dead.
+time: 0	 sender: 221	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 222	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 223	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 224	 residualEnergy: 4.680000238295179E-4
+Node: 225 is dead.
+time: 0	 sender: 226	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 227	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 228	 residualEnergy: 8.112797513604164E-5
+time: 0	 sender: 229	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 230	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 231	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 232	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 233	 residualEnergy: 1.841687480919063E-4
+Node: 234 is dead.
+time: 0	 sender: 235	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 236	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 237	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 238	 residualEnergy: 1.0216867667622864E-4
+time: 0	 sender: 239	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 240	 residualEnergy: 4.680000238295179E-4
+Node: 241 is dead.
+time: 0	 sender: 242	 residualEnergy: 2.1631212439388037E-4
+time: 0	 sender: 243	 residualEnergy: 1.2948689982295036E-4
+Node: 244 is dead.
+time: 0	 sender: 245	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 246	 residualEnergy: 7.213116623461246E-5
+Node: 247 is dead.
+time: 0	 sender: 248	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 249	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 250	 residualEnergy: 1.6946493997238576E-4
+time: 0	 sender: 251	 residualEnergy: 1.4090631157159805E-4
+time: 0	 sender: 252	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 253	 residualEnergy: 1.8774939235299826E-4
+time: 0	 sender: 254	 residualEnergy: 4.680000238295179E-4
+Node: 255 is dead.
+Node: 256 is dead.
+time: 0	 sender: 257	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 258	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 259	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 260	 residualEnergy: 1.9136272021569312E-4
+time: 0	 sender: 261	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 262	 residualEnergy: 4.680000238295179E-4
+Node: 263 is dead.
+Node: 264 is dead.
+time: 0	 sender: 265	 residualEnergy: 1.2173349387012422E-4
+time: 0	 sender: 266	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 267	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 268	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 269	 residualEnergy: 4.680000238295179E-4
+Node: 270 is dead.
+Node: 271 is dead.
+time: 0	 sender: 272	 residualEnergy: 4.680000238295179E-4
+Node: 273 is dead.
+time: 0	 sender: 274	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 275	 residualEnergy: 4.680000238295179E-4
+Node: 276 is dead.
+time: 0	 sender: 277	 residualEnergy: 4.680000238295179E-4
+Node: 278 is dead.
+time: 0	 sender: 279	 residualEnergy: 4.680000238295179E-4
+Node: 280 is dead.
+time: 0	 sender: 281	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 282	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 283	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 284	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 285	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 286	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 287	 residualEnergy: 1.9247937598265707E-4
+time: 0	 sender: 288	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 289	 residualEnergy: 1.7029294394887984E-4
+time: 0	 sender: 290	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 291	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 292	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 293	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 294	 residualEnergy: 4.680000238295179E-4
+Node: 295 is dead.
+Node: 296 is dead.
+time: 0	 sender: 297	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 298	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 299	 residualEnergy: 4.680000238295179E-4
+Node: 300 is dead.
+Node: 301 is dead.
+time: 0	 sender: 302	 residualEnergy: 2.0860170479863882E-5
+time: 0	 sender: 303	 residualEnergy: 4.680000238295179E-4
+Node: 304 is dead.
+Node: 305 is dead.
+time: 0	 sender: 306	 residualEnergy: 4.680000238295179E-4
+Node: 307 is dead.
+time: 0	 sender: 308	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 309	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 310	 residualEnergy: 4.680000238295179E-4
+Node: 311 is dead.
+time: 0	 sender: 312	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 313	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 314	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 315	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 316	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 317	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 318	 residualEnergy: 4.680000238295179E-4
+Node: 319 is dead.
+time: 0	 sender: 320	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 321	 residualEnergy: 4.680000238295179E-4
+Node: 322 is dead.
+time: 0	 sender: 323	 residualEnergy: 4.680000238295179E-4
+Node: 324 is dead.
+time: 0	 sender: 325	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 326	 residualEnergy: 1.7508966266177595E-4
+time: 0	 sender: 327	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 328	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 329	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 330	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 331	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 332	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 333	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 334	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 335	 residualEnergy: 4.680000238295179E-4
+Node: 336 is dead.
+time: 0	 sender: 337	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 338	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 339	 residualEnergy: 1.1156179243698716E-4
+time: 0	 sender: 340	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 341	 residualEnergy: 2.1967411157675087E-4
+Node: 342 is dead.
+time: 0	 sender: 343	 residualEnergy: 4.680000238295179E-4
+Node: 344 is dead.
+time: 0	 sender: 345	 residualEnergy: 4.680000238295179E-4
+Node: 346 is dead.
+Node: 347 is dead.
+time: 0	 sender: 348	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 349	 residualEnergy: 4.680000238295179E-4
+Node: 350 is dead.
+time: 0	 sender: 351	 residualEnergy: 4.680000238295179E-4
+Node: 352 is dead.
+Node: 353 is dead.
+time: 0	 sender: 354	 residualEnergy: 4.680000238295179E-4
+Node: 355 is dead.
+time: 0	 sender: 356	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 357	 residualEnergy: 1.5896628610789776E-4
+time: 0	 sender: 358	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 359	 residualEnergy: 2.4785735877230763E-4
+Node: 360 is dead.
+time: 0	 sender: 361	 residualEnergy: 1.9935396267101169E-4
+time: 0	 sender: 362	 residualEnergy: 1.0438228491693735E-4
+time: 0	 sender: 363	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 364	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 365	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 366	 residualEnergy: 6.129499524831772E-6
+time: 0	 sender: 367	 residualEnergy: 4.680000238295179E-4
+Node: 368 is dead.
+time: 0	 sender: 369	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 370	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 371	 residualEnergy: 4.680000238295179E-4
+Node: 372 is dead.
+time: 0	 sender: 373	 residualEnergy: 1.509364228695631E-4
+Node: 374 is dead.
+time: 0	 sender: 375	 residualEnergy: 1.4054513303563E-4
+Node: 376 is dead.
+time: 0	 sender: 377	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 378	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 379	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 380	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 381	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 382	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 383	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 384	 residualEnergy: 2.3143444559536874E-4
+time: 0	 sender: 385	 residualEnergy: 1.584803976584226E-4
+Node: 386 is dead.
+time: 0	 sender: 387	 residualEnergy: 4.680000238295179E-4
+Node: 388 is dead.
+Node: 389 is dead.
+Node: 390 is dead.
+Node: 391 is dead.
+time: 0	 sender: 392	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 393	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 394	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 395	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 396	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 397	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 398	 residualEnergy: 4.680000238295179E-4
+Node: 399 is dead.
+Node: 400 is dead.
+time: 0	 sender: 401	 residualEnergy: 2.4949200451374054E-5
+time: 0	 sender: 402	 residualEnergy: 4.680000238295179E-4
+Node: 403 is dead.
+Node: 404 is dead.
+Node: 405 is dead.
+Node: 406 is dead.
+time: 0	 sender: 407	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 408	 residualEnergy: 4.680000238295179E-4
+Node: 409 is dead.
+Node: 410 is dead.
+time: 0	 sender: 411	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 412	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 413	 residualEnergy: 1.2286208220757544E-4
+time: 0	 sender: 414	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 415	 residualEnergy: 5.152702215127647E-5
+Node: 416 is dead.
+Node: 417 is dead.
+Node: 418 is dead.
+time: 0	 sender: 419	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 420	 residualEnergy: 4.680000238295179E-4
+Node: 421 is dead.
+time: 0	 sender: 422	 residualEnergy: 4.680000238295179E-4
+Node: 423 is dead.
+Node: 424 is dead.
+Node: 425 is dead.
+time: 0	 sender: 426	 residualEnergy: 1.4842741074971855E-4
+time: 0	 sender: 427	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 428	 residualEnergy: 6.383837899193168E-5
+time: 0	 sender: 429	 residualEnergy: 1.6115879407152534E-4
+time: 0	 sender: 430	 residualEnergy: 4.680000238295179E-4
+Node: 431 is dead.
+time: 0	 sender: 432	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 433	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 434	 residualEnergy: 4.680000238295179E-4
+Node: 435 is dead.
+time: 0	 sender: 436	 residualEnergy: 4.680000238295179E-4
+Node: 437 is dead.
+Node: 438 is dead.
+Node: 439 is dead.
+Node: 440 is dead.
+Node: 441 is dead.
+Node: 442 is dead.
+Node: 443 is dead.
+time: 0	 sender: 444	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 445	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 446	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 447	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 448	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 449	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 450	 residualEnergy: 4.680000238295179E-4
+Node: 451 is dead.
+time: 0	 sender: 452	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 453	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 454	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 455	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 456	 residualEnergy: 4.680000238295179E-4
+Node: 457 is dead.
+time: 0	 sender: 458	 residualEnergy: 8.757371688261628E-5
+time: 0	 sender: 459	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 460	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 461	 residualEnergy: 4.680000238295179E-4
+Node: 462 is dead.
+time: 0	 sender: 463	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 464	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 465	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 466	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 467	 residualEnergy: 2.106343163177371E-5
+Node: 468 is dead.
+Node: 469 is dead.
+time: 0	 sender: 470	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 471	 residualEnergy: 4.680000238295179E-4
+Node: 472 is dead.
+Node: 473 is dead.
+time: 0	 sender: 474	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 475	 residualEnergy: 4.680000238295179E-4
+Node: 476 is dead.
+Node: 477 is dead.
+time: 0	 sender: 478	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 479	 residualEnergy: 2.076402015518397E-4
+Node: 480 is dead.
+time: 0	 sender: 481	 residualEnergy: 9.780487744137645E-5
+Node: 482 is dead.
+time: 0	 sender: 483	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 484	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 485	 residualEnergy: 4.680000238295179E-4
+Node: 486 is dead.
+Node: 487 is dead.
+Node: 488 is dead.
+Node: 489 is dead.
+time: 0	 sender: 490	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 491	 residualEnergy: 1.2878264533355832E-4
+time: 0	 sender: 492	 residualEnergy: 8.630982483737171E-5
+time: 0	 sender: 493	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 494	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 495	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 496	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 497	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 498	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 499	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 500	 residualEnergy: 4.680000238295179E-4
+Node: 501 is dead.
+Node: 502 is dead.
+Node: 503 is dead.
+Node: 504 is dead.
+Node: 505 is dead.
+Node: 506 is dead.
+time: 0	 sender: 507	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 508	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 509	 residualEnergy: 4.680000238295179E-4
+Node: 510 is dead.
+Node: 511 is dead.
+time: 0	 sender: 512	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 513	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 514	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 515	 residualEnergy: 4.680000238295179E-4
+Node: 516 is dead.
+Node: 517 is dead.
+Node: 518 is dead.
+Node: 519 is dead.
+time: 0	 sender: 520	 residualEnergy: 4.680000238295179E-4
+Node: 521 is dead.
+Node: 522 is dead.
+Node: 523 is dead.
+time: 0	 sender: 524	 residualEnergy: 4.680000238295179E-4
+Node: 525 is dead.
+time: 0	 sender: 526	 residualEnergy: 4.680000238295179E-4
+Node: 527 is dead.
+time: 0	 sender: 528	 residualEnergy: 1.0902577196247876E-4
+time: 0	 sender: 529	 residualEnergy: 4.680000238295179E-4
+Node: 530 is dead.
+Node: 531 is dead.
+time: 0	 sender: 532	 residualEnergy: 1.8805236322805285E-4
+time: 0	 sender: 533	 residualEnergy: 4.680000238295179E-4
+Node: 534 is dead.
+time: 0	 sender: 535	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 536	 residualEnergy: 2.520779671613127E-4
+time: 0	 sender: 537	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 538	 residualEnergy: 4.680000238295179E-4
+Node: 539 is dead.
+Node: 540 is dead.
+time: 0	 sender: 541	 residualEnergy: 4.680000238295179E-4
+Node: 542 is dead.
+time: 0	 sender: 543	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 544	 residualEnergy: 4.680000238295179E-4
+Node: 545 is dead.
+time: 0	 sender: 546	 residualEnergy: 1.822002523113042E-4
+time: 0	 sender: 547	 residualEnergy: 4.680000238295179E-4
+Node: 548 is dead.
+Node: 549 is dead.
+time: 0	 sender: 550	 residualEnergy: 4.680000238295179E-4
+Node: 551 is dead.
+time: 0	 sender: 552	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 553	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 554	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 555	 residualEnergy: 9.441890870220959E-5
+Node: 556 is dead.
+time: 0	 sender: 557	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 558	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 559	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 560	 residualEnergy: 1.02522928500548E-4
+time: 0	 sender: 561	 residualEnergy: 5.1227485528215766E-5
+time: 0	 sender: 562	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 563	 residualEnergy: 4.680000238295179E-4
+Node: 564 is dead.
+time: 0	 sender: 565	 residualEnergy: 1.4653633115813136E-4
+time: 0	 sender: 566	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 567	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 568	 residualEnergy: 4.680000238295179E-4
+Node: 569 is dead.
+Node: 570 is dead.
+Node: 571 is dead.
+time: 0	 sender: 572	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 573	 residualEnergy: 2.8888345696032047E-5
+time: 0	 sender: 574	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 575	 residualEnergy: 4.680000238295179E-4
+Node: 576 is dead.
+time: 0	 sender: 577	 residualEnergy: 4.680000238295179E-4
+Node: 578 is dead.
+time: 0	 sender: 579	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 580	 residualEnergy: 4.680000238295179E-4
+Node: 581 is dead.
+Node: 582 is dead.
+time: 0	 sender: 583	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 584	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 585	 residualEnergy: 1.9383052131161094E-4
+time: 0	 sender: 586	 residualEnergy: 4.680000238295179E-4
+Node: 587 is dead.
+time: 0	 sender: 588	 residualEnergy: 4.680000238295179E-4
+Node: 589 is dead.
+time: 0	 sender: 590	 residualEnergy: 4.680000238295179E-4
+Node: 591 is dead.
+time: 0	 sender: 592	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 593	 residualEnergy: 1.9050700939260423E-4
+Node: 594 is dead.
+time: 0	 sender: 595	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 596	 residualEnergy: 4.680000238295179E-4
+Node: 597 is dead.
+time: 0	 sender: 598	 residualEnergy: 4.680000238295179E-4
+Node: 599 is dead.
+Node: 600 is dead.
+time: 0	 sender: 601	 residualEnergy: 1.6216406947933137E-4
+Node: 602 is dead.
+Node: 603 is dead.
+time: 0	 sender: 604	 residualEnergy: 4.680000238295179E-4
+Node: 605 is dead.
+time: 0	 sender: 606	 residualEnergy: 4.680000238295179E-4
+Node: 607 is dead.
+Node: 608 is dead.
+time: 0	 sender: 609	 residualEnergy: 1.9499813788570464E-4
+Node: 610 is dead.
+time: 0	 sender: 611	 residualEnergy: 4.680000238295179E-4
+Node: 612 is dead.
+time: 0	 sender: 613	 residualEnergy: 2.6157533284276724E-5
+time: 0	 sender: 614	 residualEnergy: 4.680000238295179E-4
+Node: 615 is dead.
+time: 0	 sender: 616	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 617	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 618	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 619	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 620	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 621	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 622	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 623	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 624	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 625	 residualEnergy: 4.680000238295179E-4
+Node: 626 is dead.
+time: 0	 sender: 627	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 628	 residualEnergy: 4.680000238295179E-4
+Node: 629 is dead.
+time: 0	 sender: 630	 residualEnergy: 1.4351363643072546E-4
+time: 0	 sender: 631	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 632	 residualEnergy: 2.0115493680350482E-4
+Node: 633 is dead.
+time: 0	 sender: 634	 residualEnergy: 4.680000238295179E-4
+Node: 635 is dead.
+time: 0	 sender: 636	 residualEnergy: 4.680000238295179E-4
+Node: 637 is dead.
+time: 0	 sender: 638	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 639	 residualEnergy: 9.582724305801094E-5
+Node: 640 is dead.
+time: 0	 sender: 641	 residualEnergy: 4.680000238295179E-4
+Node: 642 is dead.
+Node: 643 is dead.
+time: 0	 sender: 644	 residualEnergy: 4.680000238295179E-4
+Node: 645 is dead.
+Node: 646 is dead.
+time: 0	 sender: 647	 residualEnergy: 1.0900138295255601E-4
+time: 0	 sender: 648	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 649	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 650	 residualEnergy: 4.680000238295179E-4
+Node: 651 is dead.
+Node: 652 is dead.
+time: 0	 sender: 653	 residualEnergy: 4.680000238295179E-4
+Node: 654 is dead.
+Node: 655 is dead.
+time: 0	 sender: 656	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 657	 residualEnergy: 9.881507139652967E-6
+time: 0	 sender: 658	 residualEnergy: 4.715731483884156E-5
+time: 0	 sender: 659	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 660	 residualEnergy: 4.680000238295179E-4
+Node: 661 is dead.
+time: 0	 sender: 662	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 663	 residualEnergy: 1.5052393428049982E-4
+Node: 664 is dead.
+time: 0	 sender: 665	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 666	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 667	 residualEnergy: 4.680000238295179E-4
+Node: 668 is dead.
+Node: 669 is dead.
+Node: 670 is dead.
+Node: 671 is dead.
+time: 0	 sender: 672	 residualEnergy: 4.680000238295179E-4
+Node: 673 is dead.
+time: 0	 sender: 674	 residualEnergy: 1.6618790687061846E-4
+time: 0	 sender: 675	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 676	 residualEnergy: 4.680000238295179E-4
+Node: 677 is dead.
+Node: 678 is dead.
+time: 0	 sender: 679	 residualEnergy: 2.0464835688471794E-4
+Node: 680 is dead.
+time: 0	 sender: 681	 residualEnergy: 4.680000238295179E-4
+Node: 682 is dead.
+Node: 683 is dead.
+time: 0	 sender: 684	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 685	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 686	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 687	 residualEnergy: 1.1270382674410939E-4
+time: 0	 sender: 688	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 689	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 690	 residualEnergy: 4.680000238295179E-4
+Node: 691 is dead.
+Node: 692 is dead.
+Node: 693 is dead.
+time: 0	 sender: 694	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 695	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 696	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 697	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 698	 residualEnergy: 7.659665425308049E-5
+Node: 699 is dead.
+Node: 700 is dead.
+time: 0	 sender: 701	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 702	 residualEnergy: 4.680000238295179E-4
+Node: 703 is dead.
+time: 0	 sender: 704	 residualEnergy: 4.680000238295179E-4
+Node: 705 is dead.
+time: 0	 sender: 706	 residualEnergy: 4.680000238295179E-4
+Node: 707 is dead.
+time: 0	 sender: 708	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 709	 residualEnergy: 1.2933652033098042E-4
+Node: 710 is dead.
+time: 0	 sender: 711	 residualEnergy: 4.680000238295179E-4
+Node: 712 is dead.
+time: 0	 sender: 713	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 714	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 715	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 716	 residualEnergy: 2.0364730153232813E-4
+Node: 717 is dead.
+time: 0	 sender: 718	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 719	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 720	 residualEnergy: 4.680000238295179E-4
+Node: 721 is dead.
+time: 0	 sender: 722	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 723	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 724	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 725	 residualEnergy: 9.225381654687226E-5
+time: 0	 sender: 726	 residualEnergy: 4.680000238295179E-4
+Node: 727 is dead.
+time: 0	 sender: 728	 residualEnergy: 1.9476749002933502E-5
+time: 0	 sender: 729	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 730	 residualEnergy: 4.680000238295179E-4
+Node: 731 is dead.
+time: 0	 sender: 732	 residualEnergy: 4.544871626421809E-5
+time: 0	 sender: 733	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 734	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 735	 residualEnergy: 4.680000238295179E-4
+Node: 736 is dead.
+time: 0	 sender: 737	 residualEnergy: 1.0850286344066262E-4
+time: 0	 sender: 738	 residualEnergy: 4.680000238295179E-4
+Node: 739 is dead.
+time: 0	 sender: 740	 residualEnergy: 4.680000238295179E-4
+Node: 741 is dead.
+time: 0	 sender: 742	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 743	 residualEnergy: 4.680000238295179E-4
+Node: 744 is dead.
+time: 0	 sender: 745	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 746	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 747	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 748	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 749	 residualEnergy: 4.680000238295179E-4
+Node: 750 is dead.
+time: 0	 sender: 751	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 752	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 753	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 754	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 755	 residualEnergy: 4.680000238295179E-4
+Node: 756 is dead.
+time: 0	 sender: 757	 residualEnergy: 4.680000238295179E-4
+Node: 758 is dead.
+Node: 759 is dead.
+time: 0	 sender: 760	 residualEnergy: 4.680000238295179E-4
+Node: 761 is dead.
+Node: 762 is dead.
+time: 0	 sender: 763	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 764	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 765	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 766	 residualEnergy: 1.8457070109434426E-4
+Node: 767 is dead.
+Node: 768 is dead.
+Node: 769 is dead.
+time: 0	 sender: 770	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 771	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 772	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 773	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 774	 residualEnergy: 4.680000238295179E-4
+Node: 775 is dead.
+Node: 776 is dead.
+time: 0	 sender: 777	 residualEnergy: 4.680000238295179E-4
+Node: 778 is dead.
+Node: 779 is dead.
+time: 0	 sender: 780	 residualEnergy: 4.680000238295179E-4
+Node: 781 is dead.
+time: 0	 sender: 782	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 783	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 784	 residualEnergy: 2.427644212730229E-4
+time: 0	 sender: 785	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 786	 residualEnergy: 8.637018618173897E-5
+Node: 787 is dead.
+Node: 788 is dead.
+Node: 789 is dead.
+Node: 790 is dead.
+time: 0	 sender: 791	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 792	 residualEnergy: 4.680000238295179E-4
+Node: 793 is dead.
+time: 0	 sender: 794	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 795	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 796	 residualEnergy: 9.360560216009617E-5
+time: 0	 sender: 797	 residualEnergy: 4.680000238295179E-4
+Node: 798 is dead.
+time: 0	 sender: 799	 residualEnergy: 1.4436003402806818E-4
+Node: 800 is dead.
+Node: 801 is dead.
+Node: 802 is dead.
+Node: 803 is dead.
+Node: 804 is dead.
+Node: 805 is dead.
+time: 0	 sender: 806	 residualEnergy: 4.680000238295179E-4
+Node: 807 is dead.
+Node: 808 is dead.
+time: 0	 sender: 809	 residualEnergy: 4.680000238295179E-4
+Node: 810 is dead.
+Node: 811 is dead.
+time: 0	 sender: 812	 residualEnergy: 4.680000238295179E-4
+Node: 813 is dead.
+time: 0	 sender: 814	 residualEnergy: 4.680000238295179E-4
+Node: 815 is dead.
+time: 0	 sender: 816	 residualEnergy: 6.646447582170367E-5
+time: 0	 sender: 817	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 818	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 819	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 820	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 821	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 822	 residualEnergy: 4.680000238295179E-4
+Node: 823 is dead.
+time: 0	 sender: 824	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 825	 residualEnergy: 4.680000238295179E-4
+Node: 826 is dead.
+time: 0	 sender: 827	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 828	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 829	 residualEnergy: 5.550318746827543E-5
+time: 0	 sender: 830	 residualEnergy: 1.0642004781402647E-4
+time: 0	 sender: 831	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 832	 residualEnergy: 4.680000238295179E-4
+Node: 833 is dead.
+time: 0	 sender: 834	 residualEnergy: 1.0716970427893102E-4
+Node: 835 is dead.
+Node: 836 is dead.
+time: 0	 sender: 837	 residualEnergy: 4.680000238295179E-4
+Node: 838 is dead.
+time: 0	 sender: 839	 residualEnergy: 1.2990241521038115E-4
+Node: 840 is dead.
+time: 0	 sender: 841	 residualEnergy: 3.670214209705591E-5
+time: 0	 sender: 842	 residualEnergy: 3.388174809515476E-5
+time: 0	 sender: 843	 residualEnergy: 4.680000238295179E-4
+Node: 844 is dead.
+Node: 845 is dead.
+time: 0	 sender: 846	 residualEnergy: 1.6005124780349433E-4
+time: 0	 sender: 847	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 848	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 849	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 850	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 851	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 852	 residualEnergy: 4.680000238295179E-4
+Node: 853 is dead.
+time: 0	 sender: 854	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 855	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 856	 residualEnergy: 4.680000238295179E-4
+Node: 857 is dead.
+Node: 858 is dead.
+Node: 859 is dead.
+time: 0	 sender: 860	 residualEnergy: 4.680000238295179E-4
+Node: 861 is dead.
+time: 0	 sender: 862	 residualEnergy: 1.9930224516429007E-4
+time: 0	 sender: 863	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 864	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 865	 residualEnergy: 3.944549825973809E-5
+time: 0	 sender: 866	 residualEnergy: 2.6722448819782585E-4
+time: 0	 sender: 867	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 868	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 869	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 870	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 871	 residualEnergy: 8.397980127483606E-5
+Node: 872 is dead.
+time: 0	 sender: 873	 residualEnergy: 1.5800740220583975E-4
+time: 0	 sender: 874	 residualEnergy: 4.680000238295179E-4
+Node: 875 is dead.
+time: 0	 sender: 876	 residualEnergy: 4.025839734822512E-5
+time: 0	 sender: 877	 residualEnergy: 4.680000238295179E-4
+Node: 878 is dead.
+time: 0	 sender: 879	 residualEnergy: 4.680000238295179E-4
+Node: 880 is dead.
+time: 0	 sender: 881	 residualEnergy: 3.929738886654377E-5
+Node: 882 is dead.
+time: 0	 sender: 883	 residualEnergy: 1.881176431197673E-4
+Node: 884 is dead.
+Node: 885 is dead.
+time: 0	 sender: 886	 residualEnergy: 4.680000238295179E-4
+Node: 887 is dead.
+time: 0	 sender: 888	 residualEnergy: 4.680000238295179E-4
+Node: 889 is dead.
+time: 0	 sender: 890	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 891	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 892	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 893	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 894	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 895	 residualEnergy: 4.680000238295179E-4
+Node: 896 is dead.
+time: 0	 sender: 897	 residualEnergy: 4.680000238295179E-4
+Node: 898 is dead.
+time: 0	 sender: 899	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 900	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 901	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 902	 residualEnergy: 4.680000238295179E-4
+Node: 903 is dead.
+Node: 904 is dead.
+time: 0	 sender: 905	 residualEnergy: 4.680000238295179E-4
+Node: 906 is dead.
+time: 0	 sender: 907	 residualEnergy: 4.680000238295179E-4
+Node: 908 is dead.
+Node: 909 is dead.
+time: 0	 sender: 910	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 911	 residualEnergy: 4.0841230656951666E-5
+time: 0	 sender: 912	 residualEnergy: 4.680000238295179E-4
+Node: 913 is dead.
+Node: 914 is dead.
+time: 0	 sender: 915	 residualEnergy: 4.680000238295179E-4
+Node: 916 is dead.
+time: 0	 sender: 917	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 918	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 919	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 920	 residualEnergy: 2.079425030387938E-4
+Node: 921 is dead.
+Node: 922 is dead.
+time: 0	 sender: 923	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 924	 residualEnergy: 4.680000238295179E-4
+Node: 925 is dead.
+Node: 926 is dead.
+time: 0	 sender: 927	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 928	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 929	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 930	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 931	 residualEnergy: 4.680000238295179E-4
+Node: 932 is dead.
+Node: 933 is dead.
+Node: 934 is dead.
+time: 0	 sender: 935	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 936	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 937	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 938	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 939	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 940	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 941	 residualEnergy: 1.616375520825386E-4
+time: 0	 sender: 942	 residualEnergy: 4.680000238295179E-4
+Node: 943 is dead.
+Node: 944 is dead.
+time: 0	 sender: 945	 residualEnergy: 4.680000238295179E-4
+Node: 946 is dead.
+Node: 947 is dead.
+Node: 948 is dead.
+Node: 949 is dead.
+Node: 950 is dead.
+time: 0	 sender: 951	 residualEnergy: 4.680000238295179E-4
+Node: 952 is dead.
+time: 0	 sender: 953	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 954	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 955	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 956	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 957	 residualEnergy: 1.8454386736266315E-4
+Node: 958 is dead.
+Node: 959 is dead.
+Node: 960 is dead.
+time: 0	 sender: 961	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 962	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 963	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 964	 residualEnergy: 4.680000238295179E-4
+Node: 965 is dead.
+Node: 966 is dead.
+time: 0	 sender: 967	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 968	 residualEnergy: 7.291612564586103E-5
+Node: 969 is dead.
+time: 0	 sender: 970	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 971	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 972	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 973	 residualEnergy: 1.9558100029826164E-4
+time: 0	 sender: 974	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 975	 residualEnergy: 1.394130231346935E-4
+Node: 976 is dead.
+time: 0	 sender: 977	 residualEnergy: 1.4928937889635563E-4
+time: 0	 sender: 978	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 979	 residualEnergy: 4.680000238295179E-4
+Node: 980 is dead.
+time: 0	 sender: 981	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 982	 residualEnergy: 2.3852044250816107E-5
+Node: 983 is dead.
+time: 0	 sender: 984	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 985	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 986	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 987	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 988	 residualEnergy: 2.2874344722367823E-4
+Node: 989 is dead.
+time: 0	 sender: 990	 residualEnergy: 4.680000238295179E-4
+time: 0	 sender: 991	 residualEnergy: 4.680000238295179E-4
+Node: 992 is dead.
+Node: 993 is dead.
+Node: 994 is dead.
+time: 0	 sender: 995	 residualEnergy: 4.680000238295179E-4
+Node: 996 is dead.
+Node: 997 is dead.
+Node: 998 is dead.
+time: 0	 sender: 999	 residualEnergy: 1.5474852989427745E-4
+Node: 1000 is dead.
+time: 1	 sender: 2	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 3	 residualEnergy: 4.360000239103101E-4
+Node: 4 is dead.
+time: 1	 sender: 6	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 7	 residualEnergy: 1.331178173131775E-4
+Node: 12 is dead.
+Node: 13 is dead.
+time: 1	 sender: 14	 residualEnergy: 4.360000239103101E-4
+Node: 15 is dead.
+Node: 17 is dead.
+time: 1	 sender: 19	 residualEnergy: 5.15112878929358E-5
+Node: 20 is dead.
+time: 1	 sender: 21	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 22	 residualEnergy: 4.360000239103101E-4
+Node: 23 is dead.
+Node: 25 is dead.
+time: 1	 sender: 27	 residualEnergy: 1.3170540842111222E-4
+Node: 28 is dead.
+time: 1	 sender: 29	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 31	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 32	 residualEnergy: 4.360000239103101E-4
+Node: 33 is dead.
+time: 1	 sender: 37	 residualEnergy: 4.3251766328467056E-5
+Node: 38 is dead.
+time: 1	 sender: 42	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 44	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 45	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 46	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 48	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 49	 residualEnergy: 4.360000239103101E-4
+Node: 50 is dead.
+time: 1	 sender: 52	 residualEnergy: 4.360000239103101E-4
+Node: 53 is dead.
+Node: 56 is dead.
+time: 1	 sender: 57	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 59	 residualEnergy: 4.360000239103101E-4
+Node: 60 is dead.
+Node: 61 is dead.
+time: 1	 sender: 67	 residualEnergy: 1.0526891492190771E-4
+time: 1	 sender: 69	 residualEnergy: 1.6678215979482047E-4
+time: 1	 sender: 71	 residualEnergy: 4.360000239103101E-4
+Node: 74 is dead.
+time: 1	 sender: 75	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 77	 residualEnergy: 4.360000239103101E-4
+Node: 79 is dead.
+Node: 81 is dead.
+Node: 82 is dead.
+Node: 83 is dead.
+time: 1	 sender: 84	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 87	 residualEnergy: 4.360000239103101E-4
+Node: 89 is dead.
+time: 1	 sender: 90	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 91	 residualEnergy: 1.2133635391364805E-4
+time: 1	 sender: 92	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 98	 residualEnergy: 4.360000239103101E-4
+Node: 99 is dead.
+time: 1	 sender: 101	 residualEnergy: 4.360000239103101E-4
+Node: 103 is dead.
+time: 1	 sender: 104	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 105	 residualEnergy: 1.0566100172582082E-4
+time: 1	 sender: 106	 residualEnergy: 2.0423011665116064E-4
+Node: 107 is dead.
+time: 1	 sender: 109	 residualEnergy: 1.4199564975569956E-4
+time: 1	 sender: 111	 residualEnergy: 1.9109069762635045E-4
+Node: 113 is dead.
+time: 1	 sender: 114	 residualEnergy: 6.672310337307863E-5
+Node: 115 is dead.
+Node: 116 is dead.
+time: 1	 sender: 117	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 118	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 119	 residualEnergy: 1.87263864063425E-4
+time: 1	 sender: 120	 residualEnergy: 5.32312951690983E-5
+Node: 121 is dead.
+time: 1	 sender: 122	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 123	 residualEnergy: 7.373718472081237E-5
+time: 1	 sender: 124	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 127	 residualEnergy: 1.4685462156194262E-4
+Node: 128 is dead.
+time: 1	 sender: 130	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 131	 residualEnergy: 7.828067100490443E-5
+Node: 132 is dead.
+time: 1	 sender: 133	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 135	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 139	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 141	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 143	 residualEnergy: 1.899062299344223E-4
+time: 1	 sender: 145	 residualEnergy: 5.3182720876066014E-5
+time: 1	 sender: 146	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 148	 residualEnergy: 1.999166670429986E-4
+Node: 149 is dead.
+Node: 150 is dead.
+time: 1	 sender: 151	 residualEnergy: 1.157154438260477E-4
+time: 1	 sender: 152	 residualEnergy: 4.360000239103101E-4
+Node: 153 is dead.
+time: 1	 sender: 158	 residualEnergy: 4.360000239103101E-4
+Node: 160 is dead.
+time: 1	 sender: 161	 residualEnergy: 4.360000239103101E-4
+Node: 162 is dead.
+time: 1	 sender: 163	 residualEnergy: 4.360000239103101E-4
+Node: 164 is dead.
+time: 1	 sender: 166	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 168	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 169	 residualEnergy: 4.360000239103101E-4
+Node: 171 is dead.
+Node: 172 is dead.
+time: 1	 sender: 173	 residualEnergy: 4.360000239103101E-4
+Node: 174 is dead.
+Node: 175 is dead.
+Node: 176 is dead.
+time: 1	 sender: 177	 residualEnergy: 6.746417420799844E-5
+time: 1	 sender: 178	 residualEnergy: 4.360000239103101E-4
+Node: 179 is dead.
+time: 1	 sender: 180	 residualEnergy: 2.6605801394907758E-5
+time: 1	 sender: 181	 residualEnergy: 4.360000239103101E-4
+Node: 182 is dead.
+Node: 183 is dead.
+Node: 185 is dead.
+time: 1	 sender: 188	 residualEnergy: 2.1246853793854825E-4
+Node: 189 is dead.
+Node: 193 is dead.
+time: 1	 sender: 194	 residualEnergy: 1.8797894517774694E-4
+Node: 195 is dead.
+time: 1	 sender: 197	 residualEnergy: 4.360000239103101E-4
+Node: 198 is dead.
+time: 1	 sender: 201	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 202	 residualEnergy: 9.483717076363973E-5
+Node: 203 is dead.
+time: 1	 sender: 204	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 205	 residualEnergy: 4.360000239103101E-4
+Node: 206 is dead.
+Node: 208 is dead.
+Node: 209 is dead.
+Node: 210 is dead.
+time: 1	 sender: 211	 residualEnergy: 4.0578230255050585E-5
+time: 1	 sender: 213	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 217	 residualEnergy: 5.6516884797019884E-5
+time: 1	 sender: 218	 residualEnergy: 4.360000239103101E-4
+Node: 221 is dead.
+time: 1	 sender: 222	 residualEnergy: 4.360000239103101E-4
+Node: 223 is dead.
+time: 1	 sender: 224	 residualEnergy: 8.718722892808728E-5
+time: 1	 sender: 226	 residualEnergy: 4.360000239103101E-4
+Node: 227 is dead.
+time: 1	 sender: 228	 residualEnergy: 4.9127975216833875E-5
+time: 1	 sender: 229	 residualEnergy: 4.360000239103101E-4
+Node: 230 is dead.
+Node: 231 is dead.
+time: 1	 sender: 232	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 233	 residualEnergy: 1.5216874817269854E-4
+time: 1	 sender: 235	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 236	 residualEnergy: 7.91258571553044E-6
+time: 1	 sender: 237	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 238	 residualEnergy: 7.016867675702088E-5
+Node: 239 is dead.
+time: 1	 sender: 240	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 242	 residualEnergy: 1.843121244746726E-4
+Node: 243 is dead.
+time: 1	 sender: 245	 residualEnergy: 4.360000239103101E-4
+Node: 246 is dead.
+Node: 248 is dead.
+time: 1	 sender: 249	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 250	 residualEnergy: 1.37464940053178E-4
+Node: 251 is dead.
+time: 1	 sender: 252	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 253	 residualEnergy: 1.557493924337905E-4
+time: 1	 sender: 254	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 257	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 258	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 259	 residualEnergy: 5.742256689700298E-5
+time: 1	 sender: 260	 residualEnergy: 1.5936272029648535E-4
+Node: 261 is dead.
+time: 1	 sender: 262	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 265	 residualEnergy: 8.973349395091645E-5
+time: 1	 sender: 266	 residualEnergy: 4.360000239103101E-4
+Node: 267 is dead.
+time: 1	 sender: 268	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 269	 residualEnergy: 4.360000239103101E-4
+Node: 272 is dead.
+time: 1	 sender: 274	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 275	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 277	 residualEnergy: 4.360000239103101E-4
+Node: 279 is dead.
+Node: 281 is dead.
+Node: 282 is dead.
+Node: 283 is dead.
+time: 1	 sender: 284	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 285	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 286	 residualEnergy: 4.360000239103101E-4
+Node: 287 is dead.
+time: 1	 sender: 288	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 289	 residualEnergy: 1.3829294402967207E-4
+Node: 290 is dead.
+time: 1	 sender: 291	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 292	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 293	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 294	 residualEnergy: 4.360000239103101E-4
+Node: 297 is dead.
+Node: 298 is dead.
+time: 1	 sender: 299	 residualEnergy: 4.360000239103101E-4
+Node: 302 is dead.
+Node: 303 is dead.
+time: 1	 sender: 306	 residualEnergy: 1.8526830172049813E-4
+time: 1	 sender: 308	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 309	 residualEnergy: 9.009458517539315E-5
+time: 1	 sender: 310	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 312	 residualEnergy: 4.360000239103101E-4
+Node: 313 is dead.
+time: 1	 sender: 314	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 315	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 316	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 317	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 318	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 320	 residualEnergy: 1.3738117922912352E-4
+Node: 321 is dead.
+time: 1	 sender: 323	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 325	 residualEnergy: 1.598675262357574E-4
+Node: 326 is dead.
+Node: 327 is dead.
+Node: 328 is dead.
+Node: 329 is dead.
+time: 1	 sender: 330	 residualEnergy: 5.719117325497791E-6
+time: 1	 sender: 331	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 332	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 333	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 334	 residualEnergy: 4.360000239103101E-4
+Node: 335 is dead.
+time: 1	 sender: 337	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 338	 residualEnergy: 4.360000239103101E-4
+Node: 339 is dead.
+time: 1	 sender: 340	 residualEnergy: 1.355304084427189E-4
+time: 1	 sender: 341	 residualEnergy: 1.876741116575431E-4
+time: 1	 sender: 343	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 345	 residualEnergy: 4.360000239103101E-4
+Node: 348 is dead.
+time: 1	 sender: 349	 residualEnergy: 1.0614796701702289E-4
+time: 1	 sender: 351	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 354	 residualEnergy: 2.0148440307821147E-4
+time: 1	 sender: 356	 residualEnergy: 2.5435274437768385E-5
+time: 1	 sender: 357	 residualEnergy: 1.2696628618869E-4
+time: 1	 sender: 358	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 359	 residualEnergy: 2.1585735885309987E-4
+time: 1	 sender: 361	 residualEnergy: 1.6735396275180392E-4
+Node: 362 is dead.
+time: 1	 sender: 363	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 364	 residualEnergy: 1.445728812541347E-4
+Node: 365 is dead.
+Node: 366 is dead.
+Node: 367 is dead.
+time: 1	 sender: 369	 residualEnergy: 4.360000239103101E-4
+Node: 370 is dead.
+Node: 371 is dead.
+time: 1	 sender: 373	 residualEnergy: 1.1893642295035534E-4
+time: 1	 sender: 375	 residualEnergy: 1.0854513311642222E-4
+time: 1	 sender: 377	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 378	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 379	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 380	 residualEnergy: 1.1435405394877307E-4
+Node: 381 is dead.
+time: 1	 sender: 382	 residualEnergy: 4.360000239103101E-4
+Node: 383 is dead.
+Node: 384 is dead.
+Node: 385 is dead.
+time: 1	 sender: 387	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 392	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 393	 residualEnergy: 4.360000239103101E-4
+Node: 394 is dead.
+time: 1	 sender: 395	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 396	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 397	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 398	 residualEnergy: 4.360000239103101E-4
+Node: 401 is dead.
+Node: 402 is dead.
+Node: 407 is dead.
+Node: 408 is dead.
+time: 1	 sender: 411	 residualEnergy: 4.360000239103101E-4
+Node: 412 is dead.
+time: 1	 sender: 413	 residualEnergy: 9.086208228836767E-5
+time: 1	 sender: 414	 residualEnergy: 4.727444320451468E-7
+Node: 415 is dead.
+time: 1	 sender: 419	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 420	 residualEnergy: 4.360000239103101E-4
+Node: 422 is dead.
+Node: 426 is dead.
+time: 1	 sender: 427	 residualEnergy: 4.360000239103101E-4
+Node: 428 is dead.
+Node: 429 is dead.
+Node: 430 is dead.
+time: 1	 sender: 432	 residualEnergy: 4.360000239103101E-4
+Node: 433 is dead.
+Node: 434 is dead.
+Node: 436 is dead.
+time: 1	 sender: 444	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 445	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 446	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 447	 residualEnergy: 4.360000239103101E-4
+Node: 448 is dead.
+time: 1	 sender: 449	 residualEnergy: 9.308849621447735E-5
+Node: 450 is dead.
+time: 1	 sender: 452	 residualEnergy: 5.8814952353714034E-5
+time: 1	 sender: 453	 residualEnergy: 1.0163952174480073E-4
+Node: 454 is dead.
+time: 1	 sender: 455	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 456	 residualEnergy: 1.6090513599920087E-4
+Node: 458 is dead.
+Node: 459 is dead.
+Node: 460 is dead.
+Node: 461 is dead.
+time: 1	 sender: 463	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 464	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 465	 residualEnergy: 4.360000239103101E-4
+Node: 466 is dead.
+Node: 467 is dead.
+Node: 470 is dead.
+Node: 471 is dead.
+Node: 474 is dead.
+time: 1	 sender: 475	 residualEnergy: 4.360000239103101E-4
+Node: 478 is dead.
+time: 1	 sender: 479	 residualEnergy: 1.7564020163263194E-4
+time: 1	 sender: 481	 residualEnergy: 6.580487752216868E-5
+time: 1	 sender: 483	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 484	 residualEnergy: 4.360000239103101E-4
+Node: 485 is dead.
+time: 1	 sender: 490	 residualEnergy: 4.360000239103101E-4
+Node: 491 is dead.
+Node: 492 is dead.
+time: 1	 sender: 493	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 494	 residualEnergy: 4.360000239103101E-4
+Node: 495 is dead.
+time: 1	 sender: 496	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 497	 residualEnergy: 4.360000239103101E-4
+Node: 498 is dead.
+time: 1	 sender: 499	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 500	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 507	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 508	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 509	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 512	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 513	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 514	 residualEnergy: 4.360000239103101E-4
+Node: 515 is dead.
+time: 1	 sender: 520	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 524	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 526	 residualEnergy: 4.360000239103101E-4
+Node: 528 is dead.
+time: 1	 sender: 529	 residualEnergy: 4.360000239103101E-4
+Node: 532 is dead.
+time: 1	 sender: 533	 residualEnergy: 1.3343039245228283E-4
+Node: 535 is dead.
+time: 1	 sender: 536	 residualEnergy: 4.155910573899746E-6
+Node: 537 is dead.
+Node: 538 is dead.
+Node: 541 is dead.
+Node: 543 is dead.
+Node: 544 is dead.
+time: 1	 sender: 546	 residualEnergy: 1.5020025239209644E-4
+time: 1	 sender: 547	 residualEnergy: 4.360000239103101E-4
+Node: 550 is dead.
+Node: 552 is dead.
+Node: 553 is dead.
+Node: 554 is dead.
+time: 1	 sender: 555	 residualEnergy: 6.241890878300183E-5
+time: 1	 sender: 557	 residualEnergy: 4.360000239103101E-4
+Node: 558 is dead.
+Node: 559 is dead.
+time: 1	 sender: 560	 residualEnergy: 7.052292858134024E-5
+time: 1	 sender: 561	 residualEnergy: 1.9227485609008E-5
+Node: 562 is dead.
+Node: 563 is dead.
+time: 1	 sender: 565	 residualEnergy: 1.145363312389236E-4
+time: 1	 sender: 566	 residualEnergy: 1.772208015609067E-4
+time: 1	 sender: 567	 residualEnergy: 4.360000239103101E-4
+Node: 568 is dead.
+time: 1	 sender: 572	 residualEnergy: 4.360000239103101E-4
+Node: 573 is dead.
+time: 1	 sender: 574	 residualEnergy: 4.360000239103101E-4
+Node: 575 is dead.
+time: 1	 sender: 577	 residualEnergy: 4.360000239103101E-4
+Node: 579 is dead.
+Node: 580 is dead.
+time: 1	 sender: 583	 residualEnergy: 4.360000239103101E-4
+Node: 584 is dead.
+time: 1	 sender: 585	 residualEnergy: 1.6183052139240317E-4
+time: 1	 sender: 586	 residualEnergy: 4.360000239103101E-4
+Node: 588 is dead.
+Node: 590 is dead.
+Node: 592 is dead.
+time: 1	 sender: 593	 residualEnergy: 1.5850700947339647E-4
+time: 1	 sender: 595	 residualEnergy: 4.360000239103101E-4
+Node: 596 is dead.
+time: 1	 sender: 598	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 601	 residualEnergy: 1.301640695601236E-4
+time: 1	 sender: 604	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 606	 residualEnergy: 4.360000239103101E-4
+Node: 609 is dead.
+time: 1	 sender: 611	 residualEnergy: 1.566402024764102E-4
+Node: 613 is dead.
+time: 1	 sender: 614	 residualEnergy: 6.252484672586434E-5
+Node: 616 is dead.
+time: 1	 sender: 617	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 618	 residualEnergy: 4.360000239103101E-4
+Node: 619 is dead.
+time: 1	 sender: 620	 residualEnergy: 5.646950376103632E-5
+time: 1	 sender: 621	 residualEnergy: 4.360000239103101E-4
+Node: 622 is dead.
+time: 1	 sender: 623	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 624	 residualEnergy: 4.360000239103101E-4
+Node: 625 is dead.
+Node: 627 is dead.
+Node: 628 is dead.
+Node: 630 is dead.
+time: 1	 sender: 631	 residualEnergy: 4.360000239103101E-4
+Node: 632 is dead.
+time: 1	 sender: 634	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 636	 residualEnergy: 4.360000239103101E-4
+Node: 638 is dead.
+time: 1	 sender: 639	 residualEnergy: 6.382724313880317E-5
+time: 1	 sender: 641	 residualEnergy: 4.360000239103101E-4
+Node: 644 is dead.
+Node: 647 is dead.
+Node: 648 is dead.
+time: 1	 sender: 649	 residualEnergy: 7.252789146150462E-5
+Node: 650 is dead.
+time: 1	 sender: 653	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 656	 residualEnergy: 4.360000239103101E-4
+Node: 657 is dead.
+time: 1	 sender: 658	 residualEnergy: 1.5157314919633791E-5
+Node: 659 is dead.
+time: 1	 sender: 660	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 662	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 663	 residualEnergy: 1.1852393436129205E-4
+time: 1	 sender: 665	 residualEnergy: 4.360000239103101E-4
+Node: 666 is dead.
+Node: 667 is dead.
+Node: 672 is dead.
+Node: 674 is dead.
+Node: 675 is dead.
+time: 1	 sender: 676	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 679	 residualEnergy: 1.7264835696551017E-4
+time: 1	 sender: 681	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 684	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 685	 residualEnergy: 4.360000239103101E-4
+Node: 686 is dead.
+time: 1	 sender: 687	 residualEnergy: 8.070382682490163E-5
+Node: 688 is dead.
+time: 1	 sender: 689	 residualEnergy: 2.7975427656201646E-5
+time: 1	 sender: 690	 residualEnergy: 2.081271304632537E-5
+time: 1	 sender: 694	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 695	 residualEnergy: 1.1966311649302952E-4
+time: 1	 sender: 696	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 697	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 698	 residualEnergy: 4.459665433387272E-5
+time: 1	 sender: 701	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 702	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 704	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 706	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 708	 residualEnergy: 4.360000239103101E-4
+Node: 709 is dead.
+Node: 711 is dead.
+time: 1	 sender: 713	 residualEnergy: 4.360000239103101E-4
+Node: 714 is dead.
+time: 1	 sender: 715	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 716	 residualEnergy: 1.7164730161312036E-4
+time: 1	 sender: 718	 residualEnergy: 1.224359257321339E-4
+time: 1	 sender: 719	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 720	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 722	 residualEnergy: 1.257548683497589E-4
+Node: 723 is dead.
+time: 1	 sender: 724	 residualEnergy: 4.360000239103101E-4
+Node: 725 is dead.
+time: 1	 sender: 726	 residualEnergy: 4.360000239103101E-4
+Node: 728 is dead.
+time: 1	 sender: 729	 residualEnergy: 4.360000239103101E-4
+Node: 730 is dead.
+time: 1	 sender: 732	 residualEnergy: 1.3448716345010325E-5
+time: 1	 sender: 733	 residualEnergy: 1.556869647174608E-4
+Node: 734 is dead.
+time: 1	 sender: 735	 residualEnergy: 4.360000239103101E-4
+Node: 737 is dead.
+time: 1	 sender: 738	 residualEnergy: 4.360000239103101E-4
+Node: 740 is dead.
+time: 1	 sender: 742	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 743	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 745	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 746	 residualEnergy: 4.360000239103101E-4
+Node: 747 is dead.
+Node: 748 is dead.
+Node: 749 is dead.
+time: 1	 sender: 751	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 752	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 753	 residualEnergy: 7.963778261910193E-5
+time: 1	 sender: 754	 residualEnergy: 2.0158842016826384E-4
+time: 1	 sender: 755	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 757	 residualEnergy: 8.375772085855715E-5
+Node: 760 is dead.
+time: 1	 sender: 763	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 764	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 765	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 766	 residualEnergy: 1.525707011751365E-4
+Node: 770 is dead.
+time: 1	 sender: 771	 residualEnergy: 1.2785316721419804E-4
+Node: 772 is dead.
+Node: 773 is dead.
+Node: 774 is dead.
+Node: 777 is dead.
+time: 1	 sender: 780	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 782	 residualEnergy: 1.553790170873981E-4
+time: 1	 sender: 783	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 784	 residualEnergy: 2.1076442135381512E-4
+time: 1	 sender: 785	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 786	 residualEnergy: 5.4370186262531206E-5
+time: 1	 sender: 791	 residualEnergy: 4.170853571849875E-5
+time: 1	 sender: 792	 residualEnergy: 1.8323400217923336E-4
+Node: 794 is dead.
+Node: 795 is dead.
+Node: 796 is dead.
+time: 1	 sender: 797	 residualEnergy: 4.360000239103101E-4
+Node: 799 is dead.
+time: 1	 sender: 806	 residualEnergy: 4.360000239103101E-4
+Node: 809 is dead.
+Node: 812 is dead.
+time: 1	 sender: 814	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 816	 residualEnergy: 3.4464475902495906E-5
+time: 1	 sender: 817	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 818	 residualEnergy: 4.360000239103101E-4
+Node: 819 is dead.
+time: 1	 sender: 820	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 821	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 822	 residualEnergy: 4.6673707402078435E-5
+Node: 824 is dead.
+time: 1	 sender: 825	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 827	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 828	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 829	 residualEnergy: 2.350318754906766E-5
+time: 1	 sender: 830	 residualEnergy: 7.442004789481871E-5
+time: 1	 sender: 831	 residualEnergy: 4.360000239103101E-4
+Node: 832 is dead.
+Node: 834 is dead.
+time: 1	 sender: 837	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 839	 residualEnergy: 9.790241529117338E-5
+time: 1	 sender: 841	 residualEnergy: 4.702142177848145E-6
+time: 1	 sender: 842	 residualEnergy: 1.8817481759469956E-6
+time: 1	 sender: 843	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 846	 residualEnergy: 1.2805124788428657E-4
+Node: 847 is dead.
+time: 1	 sender: 848	 residualEnergy: 4.360000239103101E-4
+Node: 849 is dead.
+time: 1	 sender: 850	 residualEnergy: 4.360000239103101E-4
+Node: 851 is dead.
+Node: 852 is dead.
+Node: 854 is dead.
+time: 1	 sender: 855	 residualEnergy: 4.360000239103101E-4
+Node: 856 is dead.
+time: 1	 sender: 860	 residualEnergy: 1.5768308003316633E-4
+time: 1	 sender: 862	 residualEnergy: 1.673022452450823E-4
+time: 1	 sender: 863	 residualEnergy: 4.360000239103101E-4
+Node: 864 is dead.
+time: 1	 sender: 865	 residualEnergy: 7.445498340530321E-6
+time: 1	 sender: 866	 residualEnergy: 2.3522448827861808E-4
+time: 1	 sender: 867	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 868	 residualEnergy: 4.360000239103101E-4
+Node: 869 is dead.
+Node: 870 is dead.
+Node: 871 is dead.
+time: 1	 sender: 873	 residualEnergy: 1.26007402286632E-4
+Node: 874 is dead.
+Node: 876 is dead.
+time: 1	 sender: 877	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 879	 residualEnergy: 4.360000239103101E-4
+Node: 881 is dead.
+time: 1	 sender: 883	 residualEnergy: 1.5611764320055954E-4
+time: 1	 sender: 886	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 888	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 890	 residualEnergy: 3.620401184889488E-5
+time: 1	 sender: 891	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 892	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 893	 residualEnergy: 4.360000239103101E-4
+Node: 894 is dead.
+time: 1	 sender: 895	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 897	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 899	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 900	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 901	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 902	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 905	 residualEnergy: 1.057810259226244E-4
+time: 1	 sender: 907	 residualEnergy: 4.360000239103101E-4
+Node: 910 is dead.
+time: 1	 sender: 911	 residualEnergy: 8.8412307377439E-6
+time: 1	 sender: 912	 residualEnergy: 4.360000239103101E-4
+Node: 915 is dead.
+Node: 917 is dead.
+time: 1	 sender: 918	 residualEnergy: 1.1177199121448211E-4
+Node: 919 is dead.
+Node: 920 is dead.
+time: 1	 sender: 923	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 924	 residualEnergy: 4.360000239103101E-4
+Node: 927 is dead.
+time: 1	 sender: 928	 residualEnergy: 4.360000239103101E-4
+Node: 929 is dead.
+Node: 930 is dead.
+Node: 931 is dead.
+time: 1	 sender: 935	 residualEnergy: 4.360000239103101E-4
+Node: 936 is dead.
+time: 1	 sender: 937	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 938	 residualEnergy: 2.0616418260033242E-4
+time: 1	 sender: 939	 residualEnergy: 1.6174755728570744E-5
+time: 1	 sender: 940	 residualEnergy: 4.360000239103101E-4
+Node: 941 is dead.
+Node: 942 is dead.
+Node: 945 is dead.
+Node: 951 is dead.
+Node: 953 is dead.
+time: 1	 sender: 954	 residualEnergy: 4.360000239103101E-4
+Node: 955 is dead.
+Node: 956 is dead.
+time: 1	 sender: 957	 residualEnergy: 1.5254386744345538E-4
+time: 1	 sender: 961	 residualEnergy: 4.360000239103101E-4
+Node: 962 is dead.
+time: 1	 sender: 963	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 964	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 967	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 968	 residualEnergy: 4.091612572665326E-5
+Node: 970 is dead.
+Node: 971 is dead.
+time: 1	 sender: 972	 residualEnergy: 4.360000239103101E-4
+Node: 973 is dead.
+time: 1	 sender: 974	 residualEnergy: 4.360000239103101E-4
+Node: 975 is dead.
+Node: 977 is dead.
+Node: 978 is dead.
+Node: 979 is dead.
+time: 1	 sender: 981	 residualEnergy: 4.360000239103101E-4
+Node: 982 is dead.
+time: 1	 sender: 984	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 985	 residualEnergy: 7.220306360977702E-5
+time: 1	 sender: 986	 residualEnergy: 9.332004628959112E-5
+time: 1	 sender: 987	 residualEnergy: 4.360000239103101E-4
+Node: 988 is dead.
+time: 1	 sender: 990	 residualEnergy: 4.360000239103101E-4
+time: 1	 sender: 991	 residualEnergy: 4.360000239103101E-4
+Node: 995 is dead.
+time: 1	 sender: 999	 residualEnergy: 1.227485299750697E-4
+time: 2	 sender: 2	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 3	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 6	 residualEnergy: 4.0400002399110235E-4
+Node: 7 is dead.
+Node: 14 is dead.
+Node: 19 is dead.
+Node: 21 is dead.
+Node: 22 is dead.
+Node: 27 is dead.
+Node: 29 is dead.
+Node: 31 is dead.
+Node: 32 is dead.
+Node: 37 is dead.
+time: 2	 sender: 42	 residualEnergy: 4.0400002399110235E-4
+Node: 44 is dead.
+Node: 45 is dead.
+Node: 46 is dead.
+Node: 48 is dead.
+time: 2	 sender: 49	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 52	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 57	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 59	 residualEnergy: 1.1132706276839599E-4
+Node: 67 is dead.
+Node: 69 is dead.
+Node: 71 is dead.
+time: 2	 sender: 75	 residualEnergy: 2.0297498849686235E-5
+time: 2	 sender: 77	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 84	 residualEnergy: 4.0400002399110235E-4
+Node: 87 is dead.
+Node: 90 is dead.
+time: 2	 sender: 91	 residualEnergy: 8.933635399444029E-5
+time: 2	 sender: 92	 residualEnergy: 4.0400002399110235E-4
+Node: 98 is dead.
+time: 2	 sender: 101	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 104	 residualEnergy: 4.0400002399110235E-4
+Node: 105 is dead.
+time: 2	 sender: 106	 residualEnergy: 1.7223011673195288E-4
+time: 2	 sender: 109	 residualEnergy: 1.099956498364918E-4
+Node: 111 is dead.
+Node: 114 is dead.
+time: 2	 sender: 117	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 118	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 119	 residualEnergy: 1.5526386414421722E-4
+Node: 120 is dead.
+time: 2	 sender: 122	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 123	 residualEnergy: 4.17371848016046E-5
+Node: 124 is dead.
+Node: 127 is dead.
+Node: 130 is dead.
+time: 2	 sender: 131	 residualEnergy: 4.628067108569667E-5
+Node: 133 is dead.
+time: 2	 sender: 135	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 139	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 141	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 143	 residualEnergy: 1.5790623001521453E-4
+Node: 145 is dead.
+time: 2	 sender: 146	 residualEnergy: 4.0400002399110235E-4
+Node: 148 is dead.
+time: 2	 sender: 151	 residualEnergy: 8.371544390683994E-5
+Node: 152 is dead.
+time: 2	 sender: 158	 residualEnergy: 1.1744518269551918E-4
+Node: 161 is dead.
+Node: 163 is dead.
+time: 2	 sender: 166	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 168	 residualEnergy: 4.0400002399110235E-4
+Node: 169 is dead.
+time: 2	 sender: 173	 residualEnergy: 4.0400002399110235E-4
+Node: 177 is dead.
+time: 2	 sender: 178	 residualEnergy: 4.0400002399110235E-4
+Node: 180 is dead.
+time: 2	 sender: 181	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 188	 residualEnergy: 1.8046853801934049E-4
+Node: 194 is dead.
+time: 2	 sender: 197	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 201	 residualEnergy: 4.0400002399110235E-4
+Node: 202 is dead.
+Node: 204 is dead.
+time: 2	 sender: 205	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 211	 residualEnergy: 8.578230335842818E-6
+time: 2	 sender: 213	 residualEnergy: 4.0400002399110235E-4
+Node: 217 is dead.
+time: 2	 sender: 218	 residualEnergy: 4.0400002399110235E-4
+Node: 222 is dead.
+time: 2	 sender: 224	 residualEnergy: 5.518722900887951E-5
+Node: 226 is dead.
+Node: 228 is dead.
+Node: 229 is dead.
+time: 2	 sender: 232	 residualEnergy: 1.276139446417801E-4
+Node: 233 is dead.
+time: 2	 sender: 235	 residualEnergy: 1.7987411411013454E-5
+Node: 236 is dead.
+time: 2	 sender: 237	 residualEnergy: 4.0400002399110235E-4
+Node: 238 is dead.
+time: 2	 sender: 240	 residualEnergy: 1.6271814092760906E-4
+time: 2	 sender: 242	 residualEnergy: 1.5231212455546483E-4
+Node: 245 is dead.
+Node: 249 is dead.
+time: 2	 sender: 250	 residualEnergy: 1.0546494013397023E-4
+time: 2	 sender: 252	 residualEnergy: 4.0400002399110235E-4
+Node: 253 is dead.
+Node: 254 is dead.
+time: 2	 sender: 257	 residualEnergy: 4.0400002399110235E-4
+Node: 258 is dead.
+time: 2	 sender: 259	 residualEnergy: 2.5422566977795213E-5
+Node: 260 is dead.
+time: 2	 sender: 262	 residualEnergy: 4.0400002399110235E-4
+Node: 265 is dead.
+time: 2	 sender: 266	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 268	 residualEnergy: 3.3166455978062004E-5
+Node: 269 is dead.
+time: 2	 sender: 274	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 275	 residualEnergy: 4.0400002399110235E-4
+Node: 277 is dead.
+Node: 284 is dead.
+time: 2	 sender: 285	 residualEnergy: 1.1403403914300725E-4
+Node: 286 is dead.
+time: 2	 sender: 288	 residualEnergy: 1.9228223391110078E-4
+time: 2	 sender: 289	 residualEnergy: 1.062929441104643E-4
+time: 2	 sender: 291	 residualEnergy: 4.0400002399110235E-4
+Node: 292 is dead.
+time: 2	 sender: 293	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 294	 residualEnergy: 5.419766966952011E-5
+Node: 299 is dead.
+time: 2	 sender: 306	 residualEnergy: 1.5326830180129036E-4
+time: 2	 sender: 308	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 309	 residualEnergy: 5.809458525618538E-5
+time: 2	 sender: 310	 residualEnergy: 2.049045215244405E-4
+time: 2	 sender: 312	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 314	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 315	 residualEnergy: 4.0400002399110235E-4
+Node: 316 is dead.
+time: 2	 sender: 317	 residualEnergy: 4.0400002399110235E-4
+Node: 318 is dead.
+time: 2	 sender: 320	 residualEnergy: 1.0538117930991575E-4
+Node: 323 is dead.
+Node: 325 is dead.
+Node: 330 is dead.
+time: 2	 sender: 331	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 332	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 333	 residualEnergy: 1.610537219676189E-4
+Node: 334 is dead.
+Node: 337 is dead.
+time: 2	 sender: 338	 residualEnergy: 4.0400002399110235E-4
+Node: 340 is dead.
+time: 2	 sender: 341	 residualEnergy: 1.5567411173833534E-4
+time: 2	 sender: 343	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 345	 residualEnergy: 4.0400002399110235E-4
+Node: 349 is dead.
+Node: 351 is dead.
+time: 2	 sender: 354	 residualEnergy: 1.694844031590037E-4
+Node: 356 is dead.
+time: 2	 sender: 357	 residualEnergy: 9.496628626948223E-5
+time: 2	 sender: 358	 residualEnergy: 4.0400002399110235E-4
+Node: 359 is dead.
+Node: 361 is dead.
+time: 2	 sender: 363	 residualEnergy: 4.0400002399110235E-4
+Node: 364 is dead.
+Node: 369 is dead.
+Node: 373 is dead.
+time: 2	 sender: 375	 residualEnergy: 7.654513319721445E-5
+time: 2	 sender: 377	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 378	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 379	 residualEnergy: 9.958599548554048E-5
+Node: 380 is dead.
+Node: 382 is dead.
+time: 2	 sender: 387	 residualEnergy: 6.839448906248435E-5
+time: 2	 sender: 392	 residualEnergy: 1.9917364261345938E-4
+Node: 393 is dead.
+time: 2	 sender: 395	 residualEnergy: 4.0400002399110235E-4
+Node: 396 is dead.
+time: 2	 sender: 397	 residualEnergy: 4.0400002399110235E-4
+Node: 398 is dead.
+time: 2	 sender: 411	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 413	 residualEnergy: 5.886208236915991E-5
+Node: 414 is dead.
+Node: 419 is dead.
+time: 2	 sender: 420	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 427	 residualEnergy: 4.0400002399110235E-4
+Node: 432 is dead.
+time: 2	 sender: 444	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 445	 residualEnergy: 4.0400002399110235E-4
+Node: 446 is dead.
+Node: 447 is dead.
+Node: 449 is dead.
+time: 2	 sender: 452	 residualEnergy: 2.6814952434506267E-5
+time: 2	 sender: 453	 residualEnergy: 6.963952182559296E-5
+Node: 455 is dead.
+time: 2	 sender: 456	 residualEnergy: 1.289051360799931E-4
+time: 2	 sender: 463	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 464	 residualEnergy: 4.0400002399110235E-4
+Node: 465 is dead.
+time: 2	 sender: 475	 residualEnergy: 4.0400002399110235E-4
+Node: 479 is dead.
+Node: 481 is dead.
+time: 2	 sender: 483	 residualEnergy: 4.0400002399110235E-4
+Node: 484 is dead.
+time: 2	 sender: 490	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 493	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 494	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 496	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 497	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 499	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 500	 residualEnergy: 7.622534030815586E-5
+time: 2	 sender: 507	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 508	 residualEnergy: 4.0400002399110235E-4
+Node: 509 is dead.
+Node: 512 is dead.
+Node: 513 is dead.
+Node: 514 is dead.
+Node: 520 is dead.
+time: 2	 sender: 524	 residualEnergy: 4.0400002399110235E-4
+Node: 526 is dead.
+Node: 529 is dead.
+time: 2	 sender: 533	 residualEnergy: 1.0143039253307506E-4
+Node: 536 is dead.
+Node: 546 is dead.
+Node: 547 is dead.
+time: 2	 sender: 555	 residualEnergy: 3.041890886379406E-5
+Node: 557 is dead.
+Node: 560 is dead.
+Node: 561 is dead.
+Node: 565 is dead.
+Node: 566 is dead.
+time: 2	 sender: 567	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 572	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 574	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 577	 residualEnergy: 4.0400002399110235E-4
+Node: 583 is dead.
+time: 2	 sender: 585	 residualEnergy: 1.298305214731954E-4
+time: 2	 sender: 586	 residualEnergy: 4.0400002399110235E-4
+Node: 593 is dead.
+Node: 595 is dead.
+time: 2	 sender: 598	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 601	 residualEnergy: 9.816406964091584E-5
+time: 2	 sender: 604	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 606	 residualEnergy: 4.0400002399110235E-4
+Node: 611 is dead.
+Node: 614 is dead.
+time: 2	 sender: 617	 residualEnergy: 1.2992458505323157E-4
+time: 2	 sender: 618	 residualEnergy: 8.374868048122153E-5
+time: 2	 sender: 620	 residualEnergy: 2.4469503841828555E-5
+time: 2	 sender: 621	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 623	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 624	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 631	 residualEnergy: 4.0400002399110235E-4
+Node: 634 is dead.
+time: 2	 sender: 636	 residualEnergy: 4.0400002399110235E-4
+Node: 639 is dead.
+time: 2	 sender: 641	 residualEnergy: 4.0400002399110235E-4
+Node: 649 is dead.
+Node: 653 is dead.
+time: 2	 sender: 656	 residualEnergy: 4.0400002399110235E-4
+Node: 658 is dead.
+time: 2	 sender: 660	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 662	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 663	 residualEnergy: 8.652393444208428E-5
+time: 2	 sender: 665	 residualEnergy: 4.0400002399110235E-4
+Node: 676 is dead.
+time: 2	 sender: 679	 residualEnergy: 1.406483570463024E-4
+time: 2	 sender: 681	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 684	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 685	 residualEnergy: 4.0400002399110235E-4
+Node: 687 is dead.
+Node: 689 is dead.
+Node: 690 is dead.
+time: 2	 sender: 694	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 695	 residualEnergy: 8.766311657382175E-5
+time: 2	 sender: 696	 residualEnergy: 1.1034256749553606E-4
+time: 2	 sender: 697	 residualEnergy: 4.0400002399110235E-4
+Node: 698 is dead.
+Node: 701 is dead.
+time: 2	 sender: 702	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 704	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 706	 residualEnergy: 1.076375410775654E-4
+Node: 708 is dead.
+time: 2	 sender: 713	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 715	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 716	 residualEnergy: 1.396473016939126E-4
+time: 2	 sender: 718	 residualEnergy: 9.043592581292614E-5
+Node: 719 is dead.
+Node: 720 is dead.
+time: 2	 sender: 722	 residualEnergy: 9.375486843055114E-5
+time: 2	 sender: 724	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 726	 residualEnergy: 4.0400002399110235E-4
+Node: 729 is dead.
+Node: 732 is dead.
+Node: 733 is dead.
+time: 2	 sender: 735	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 738	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 742	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 743	 residualEnergy: 4.0400002399110235E-4
+Node: 745 is dead.
+time: 2	 sender: 746	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 751	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 752	 residualEnergy: 4.0400002399110235E-4
+Node: 753 is dead.
+Node: 754 is dead.
+Node: 755 is dead.
+time: 2	 sender: 757	 residualEnergy: 5.175772093934938E-5
+Node: 763 is dead.
+time: 2	 sender: 764	 residualEnergy: 4.0400002399110235E-4
+Node: 765 is dead.
+time: 2	 sender: 766	 residualEnergy: 1.2057070125592873E-4
+time: 2	 sender: 771	 residualEnergy: 9.585316729499027E-5
+Node: 780 is dead.
+Node: 782 is dead.
+Node: 783 is dead.
+time: 2	 sender: 784	 residualEnergy: 1.7876442143460736E-4
+time: 2	 sender: 785	 residualEnergy: 4.0400002399110235E-4
+Node: 786 is dead.
+time: 2	 sender: 791	 residualEnergy: 9.708535799290985E-6
+Node: 792 is dead.
+time: 2	 sender: 797	 residualEnergy: 4.0400002399110235E-4
+Node: 806 is dead.
+time: 2	 sender: 814	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 816	 residualEnergy: 2.464475983288139E-6
+Node: 817 is dead.
+time: 2	 sender: 818	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 820	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 821	 residualEnergy: 4.0400002399110235E-4
+Node: 822 is dead.
+time: 2	 sender: 825	 residualEnergy: 4.0400002399110235E-4
+Node: 827 is dead.
+Node: 828 is dead.
+Node: 829 is dead.
+Node: 830 is dead.
+time: 2	 sender: 831	 residualEnergy: 1.285747202928178E-4
+Node: 837 is dead.
+Node: 839 is dead.
+Node: 841 is dead.
+Node: 842 is dead.
+time: 2	 sender: 843	 residualEnergy: 8.058427920332178E-5
+time: 2	 sender: 846	 residualEnergy: 9.60512479650788E-5
+Node: 848 is dead.
+time: 2	 sender: 850	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 855	 residualEnergy: 7.298404671018943E-5
+Node: 860 is dead.
+time: 2	 sender: 862	 residualEnergy: 1.3530224532587454E-4
+Node: 863 is dead.
+Node: 865 is dead.
+time: 2	 sender: 866	 residualEnergy: 2.0322448835941032E-4
+Node: 867 is dead.
+Node: 868 is dead.
+Node: 873 is dead.
+Node: 877 is dead.
+time: 2	 sender: 879	 residualEnergy: 4.0400002399110235E-4
+Node: 883 is dead.
+time: 2	 sender: 886	 residualEnergy: 4.0400002399110235E-4
+Node: 888 is dead.
+Node: 890 is dead.
+Node: 891 is dead.
+time: 2	 sender: 892	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 893	 residualEnergy: 4.0400002399110235E-4
+Node: 895 is dead.
+time: 2	 sender: 897	 residualEnergy: 4.0400002399110235E-4
+Node: 899 is dead.
+time: 2	 sender: 900	 residualEnergy: 4.0400002399110235E-4
+Node: 901 is dead.
+Node: 902 is dead.
+time: 2	 sender: 905	 residualEnergy: 7.378102600341663E-5
+time: 2	 sender: 907	 residualEnergy: 4.0400002399110235E-4
+Node: 911 is dead.
+Node: 912 is dead.
+Node: 918 is dead.
+Node: 923 is dead.
+Node: 924 is dead.
+time: 2	 sender: 928	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 935	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 937	 residualEnergy: 1.355618514935486E-4
+time: 2	 sender: 938	 residualEnergy: 1.7416418268112466E-4
+Node: 939 is dead.
+time: 2	 sender: 940	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 954	 residualEnergy: 4.0400002399110235E-4
+Node: 957 is dead.
+time: 2	 sender: 961	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 963	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 964	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 967	 residualEnergy: 6.758319068467245E-5
+time: 2	 sender: 968	 residualEnergy: 8.916125807445496E-6
+Node: 972 is dead.
+time: 2	 sender: 974	 residualEnergy: 4.0400002399110235E-4
+Node: 981 is dead.
+time: 2	 sender: 984	 residualEnergy: 4.0400002399110235E-4
+Node: 985 is dead.
+Node: 986 is dead.
+time: 2	 sender: 987	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 990	 residualEnergy: 4.0400002399110235E-4
+time: 2	 sender: 991	 residualEnergy: 1.611345142009668E-4
+Node: 999 is dead.
+time: 3	 sender: 2	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 3	 residualEnergy: 8.179076030501164E-5
+time: 3	 sender: 6	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 42	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 49	 residualEnergy: 3.720000240718946E-4
+Node: 52 is dead.
+time: 3	 sender: 57	 residualEnergy: 3.720000240718946E-4
+Node: 59 is dead.
+Node: 75 is dead.
+time: 3	 sender: 77	 residualEnergy: 3.720000240718946E-4
+Node: 84 is dead.
+time: 3	 sender: 91	 residualEnergy: 5.733635407523252E-5
+time: 3	 sender: 92	 residualEnergy: 3.720000240718946E-4
+Node: 101 is dead.
+time: 3	 sender: 104	 residualEnergy: 3.720000240718946E-4
+Node: 106 is dead.
+Node: 109 is dead.
+Node: 117 is dead.
+Node: 118 is dead.
+time: 3	 sender: 119	 residualEnergy: 1.2326386422500946E-4
+Node: 122 is dead.
+time: 3	 sender: 123	 residualEnergy: 9.737184882396832E-6
+Node: 131 is dead.
+time: 3	 sender: 135	 residualEnergy: 3.720000240718946E-4
+Node: 139 is dead.
+time: 3	 sender: 141	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 143	 residualEnergy: 1.2590623009600677E-4
+Node: 146 is dead.
+time: 3	 sender: 151	 residualEnergy: 5.171544398763217E-5
+time: 3	 sender: 158	 residualEnergy: 8.544518277631141E-5
+time: 3	 sender: 166	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 168	 residualEnergy: 8.35993887449149E-5
+time: 3	 sender: 173	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 178	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 181	 residualEnergy: 3.720000240718946E-4
+Node: 188 is dead.
+Node: 197 is dead.
+time: 3	 sender: 201	 residualEnergy: 4.782839459949173E-5
+Node: 205 is dead.
+Node: 211 is dead.
+Node: 213 is dead.
+Node: 218 is dead.
+Node: 224 is dead.
+Node: 232 is dead.
+Node: 235 is dead.
+time: 3	 sender: 237	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 240	 residualEnergy: 1.307181410084013E-4
+time: 3	 sender: 242	 residualEnergy: 1.2031212463625707E-4
+Node: 250 is dead.
+time: 3	 sender: 252	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 257	 residualEnergy: 3.720000240718946E-4
+Node: 259 is dead.
+time: 3	 sender: 262	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 266	 residualEnergy: 3.720000240718946E-4
+Node: 268 is dead.
+time: 3	 sender: 274	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 275	 residualEnergy: 3.720000240718946E-4
+Node: 285 is dead.
+Node: 288 is dead.
+time: 3	 sender: 289	 residualEnergy: 7.429294419125654E-5
+time: 3	 sender: 291	 residualEnergy: 3.720000240718946E-4
+Node: 293 is dead.
+time: 3	 sender: 294	 residualEnergy: 2.2197669750312343E-5
+time: 3	 sender: 306	 residualEnergy: 1.212683018820826E-4
+time: 3	 sender: 308	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 309	 residualEnergy: 2.6094585336977616E-5
+time: 3	 sender: 310	 residualEnergy: 1.7290452160523273E-4
+time: 3	 sender: 312	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 314	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 315	 residualEnergy: 3.720000240718946E-4
+Node: 317 is dead.
+Node: 320 is dead.
+time: 3	 sender: 331	 residualEnergy: 3.720000240718946E-4
+Node: 332 is dead.
+Node: 333 is dead.
+Node: 338 is dead.
+time: 3	 sender: 341	 residualEnergy: 1.2367411181912757E-4
+time: 3	 sender: 343	 residualEnergy: 3.720000240718946E-4
+Node: 345 is dead.
+time: 3	 sender: 354	 residualEnergy: 1.3748440323979594E-4
+Node: 357 is dead.
+Node: 358 is dead.
+Node: 363 is dead.
+Node: 375 is dead.
+Node: 377 is dead.
+time: 3	 sender: 378	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 379	 residualEnergy: 6.758599556633271E-5
+Node: 387 is dead.
+time: 3	 sender: 392	 residualEnergy: 1.671736426942516E-4
+time: 3	 sender: 395	 residualEnergy: 1.627721831027884E-4
+time: 3	 sender: 397	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 411	 residualEnergy: 3.720000240718946E-4
+Node: 413 is dead.
+time: 3	 sender: 420	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 427	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 444	 residualEnergy: 3.720000240718946E-4
+Node: 445 is dead.
+Node: 452 is dead.
+Node: 453 is dead.
+time: 3	 sender: 456	 residualEnergy: 9.690513616078533E-5
+time: 3	 sender: 463	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 464	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 475	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 483	 residualEnergy: 3.720000240718946E-4
+Node: 490 is dead.
+time: 3	 sender: 493	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 494	 residualEnergy: 2.6470868760952726E-5
+time: 3	 sender: 496	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 497	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 499	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 500	 residualEnergy: 4.42253403889481E-5
+Node: 507 is dead.
+time: 3	 sender: 508	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 524	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 533	 residualEnergy: 6.94303926138673E-5
+Node: 555 is dead.
+time: 3	 sender: 567	 residualEnergy: 3.720000240718946E-4
+Node: 572 is dead.
+time: 3	 sender: 574	 residualEnergy: 5.4700856708223E-5
+Node: 577 is dead.
+Node: 585 is dead.
+time: 3	 sender: 586	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 598	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 601	 residualEnergy: 6.616406972170807E-5
+time: 3	 sender: 604	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 606	 residualEnergy: 3.720000240718946E-4
+Node: 617 is dead.
+Node: 618 is dead.
+Node: 620 is dead.
+Node: 621 is dead.
+time: 3	 sender: 623	 residualEnergy: 9.660088471719064E-5
+time: 3	 sender: 624	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 631	 residualEnergy: 3.720000240718946E-4
+Node: 636 is dead.
+Node: 641 is dead.
+time: 3	 sender: 656	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 660	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 662	 residualEnergy: 6.505329292849638E-5
+Node: 663 is dead.
+time: 3	 sender: 665	 residualEnergy: 3.720000240718946E-4
+Node: 679 is dead.
+Node: 681 is dead.
+time: 3	 sender: 684	 residualEnergy: 3.720000240718946E-4
+Node: 685 is dead.
+time: 3	 sender: 694	 residualEnergy: 1.7324742293567397E-4
+time: 3	 sender: 695	 residualEnergy: 5.5663116654613987E-5
+Node: 696 is dead.
+time: 3	 sender: 697	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 702	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 704	 residualEnergy: 3.720000240718946E-4
+Node: 706 is dead.
+time: 3	 sender: 713	 residualEnergy: 3.720000240718946E-4
+Node: 715 is dead.
+Node: 716 is dead.
+Node: 718 is dead.
+Node: 722 is dead.
+Node: 724 is dead.
+time: 3	 sender: 726	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 735	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 738	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 742	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 743	 residualEnergy: 2.0763171050930396E-5
+Node: 746 is dead.
+time: 3	 sender: 751	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 752	 residualEnergy: 3.519576057442464E-5
+time: 3	 sender: 757	 residualEnergy: 1.9757721020141616E-5
+time: 3	 sender: 764	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 766	 residualEnergy: 8.857070133672096E-5
+time: 3	 sender: 771	 residualEnergy: 6.38531673757825E-5
+Node: 784 is dead.
+time: 3	 sender: 785	 residualEnergy: 3.720000240718946E-4
+Node: 791 is dead.
+time: 3	 sender: 797	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 814	 residualEnergy: 3.720000240718946E-4
+Node: 816 is dead.
+time: 3	 sender: 818	 residualEnergy: 3.720000240718946E-4
+Node: 820 is dead.
+Node: 821 is dead.
+Node: 825 is dead.
+time: 3	 sender: 831	 residualEnergy: 9.657472037361003E-5
+Node: 843 is dead.
+time: 3	 sender: 846	 residualEnergy: 6.405124804587103E-5
+time: 3	 sender: 850	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 855	 residualEnergy: 4.0984046790981665E-5
+Node: 862 is dead.
+time: 3	 sender: 866	 residualEnergy: 1.7122448844020255E-4
+time: 3	 sender: 879	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 886	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 892	 residualEnergy: 3.720000240718946E-4
+Node: 893 is dead.
+Node: 897 is dead.
+time: 3	 sender: 900	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 905	 residualEnergy: 4.178102608420886E-5
+time: 3	 sender: 907	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 928	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 935	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 937	 residualEnergy: 1.0356185157434084E-4
+time: 3	 sender: 938	 residualEnergy: 1.421641827619169E-4
+time: 3	 sender: 940	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 954	 residualEnergy: 3.720000240718946E-4
+Node: 961 is dead.
+time: 3	 sender: 963	 residualEnergy: 3.720000240718946E-4
+Node: 964 is dead.
+time: 3	 sender: 967	 residualEnergy: 3.558319076546468E-5
+Node: 968 is dead.
+time: 3	 sender: 974	 residualEnergy: 3.720000240718946E-4
+time: 3	 sender: 984	 residualEnergy: 1.1168301352881826E-4
+Node: 987 is dead.
+time: 3	 sender: 990	 residualEnergy: 9.184284499497153E-5
+time: 3	 sender: 991	 residualEnergy: 1.2913451428175904E-4
+time: 4	 sender: 2	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 3	 residualEnergy: 4.979076038580388E-5
+time: 4	 sender: 6	 residualEnergy: 3.400000241526868E-4
+Node: 42 is dead.
+time: 4	 sender: 49	 residualEnergy: 9.147638047579676E-5
+time: 4	 sender: 57	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 77	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 91	 residualEnergy: 2.5336354156024754E-5
+time: 4	 sender: 92	 residualEnergy: 3.400000241526868E-4
+Node: 104 is dead.
+time: 4	 sender: 119	 residualEnergy: 9.126386430580169E-5
+Node: 123 is dead.
+time: 4	 sender: 135	 residualEnergy: 3.400000241526868E-4
+Node: 141 is dead.
+Node: 143 is dead.
+Node: 151 is dead.
+time: 4	 sender: 158	 residualEnergy: 5.3445182857103646E-5
+Node: 166 is dead.
+Node: 168 is dead.
+time: 4	 sender: 173	 residualEnergy: 3.400000241526868E-4
+Node: 178 is dead.
+time: 4	 sender: 181	 residualEnergy: 3.400000241526868E-4
+Node: 201 is dead.
+Node: 237 is dead.
+time: 4	 sender: 240	 residualEnergy: 9.871814108919352E-5
+Node: 242 is dead.
+Node: 252 is dead.
+time: 4	 sender: 257	 residualEnergy: 3.988927346654236E-6
+Node: 262 is dead.
+Node: 266 is dead.
+time: 4	 sender: 274	 residualEnergy: 3.400000241526868E-4
+Node: 275 is dead.
+time: 4	 sender: 289	 residualEnergy: 4.229294427204877E-5
+Node: 291 is dead.
+Node: 294 is dead.
+time: 4	 sender: 306	 residualEnergy: 8.926830196287483E-5
+Node: 308 is dead.
+Node: 309 is dead.
+Node: 310 is dead.
+time: 4	 sender: 312	 residualEnergy: 3.400000241526868E-4
+Node: 314 is dead.
+Node: 315 is dead.
+Node: 331 is dead.
+time: 4	 sender: 341	 residualEnergy: 9.167411189991981E-5
+Node: 343 is dead.
+Node: 354 is dead.
+time: 4	 sender: 378	 residualEnergy: 3.400000241526868E-4
+Node: 379 is dead.
+Node: 392 is dead.
+time: 4	 sender: 395	 residualEnergy: 1.3077218318358064E-4
+Node: 397 is dead.
+Node: 411 is dead.
+Node: 420 is dead.
+Node: 427 is dead.
+time: 4	 sender: 444	 residualEnergy: 3.400000241526868E-4
+Node: 456 is dead.
+Node: 463 is dead.
+time: 4	 sender: 464	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 475	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 483	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 493	 residualEnergy: 3.400000241526868E-4
+Node: 494 is dead.
+time: 4	 sender: 496	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 497	 residualEnergy: 1.629373582545668E-5
+Node: 499 is dead.
+time: 4	 sender: 500	 residualEnergy: 1.2225340469740331E-5
+time: 4	 sender: 508	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 524	 residualEnergy: 8.890072058420628E-5
+time: 4	 sender: 533	 residualEnergy: 3.743039269465953E-5
+time: 4	 sender: 567	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 574	 residualEnergy: 2.2700856789015234E-5
+Node: 586 is dead.
+time: 4	 sender: 598	 residualEnergy: 3.400000241526868E-4
+Node: 601 is dead.
+time: 4	 sender: 604	 residualEnergy: 3.400000241526868E-4
+Node: 606 is dead.
+time: 4	 sender: 623	 residualEnergy: 6.460088479798287E-5
+time: 4	 sender: 624	 residualEnergy: 3.400000241526868E-4
+Node: 631 is dead.
+Node: 656 is dead.
+Node: 660 is dead.
+Node: 662 is dead.
+time: 4	 sender: 665	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 684	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 694	 residualEnergy: 1.412474230164662E-4
+time: 4	 sender: 695	 residualEnergy: 2.366311673540622E-5
+time: 4	 sender: 697	 residualEnergy: 3.400000241526868E-4
+Node: 702 is dead.
+time: 4	 sender: 704	 residualEnergy: 3.400000241526868E-4
+Node: 713 is dead.
+Node: 726 is dead.
+time: 4	 sender: 735	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 738	 residualEnergy: 1.0639188985805959E-4
+time: 4	 sender: 742	 residualEnergy: 3.400000241526868E-4
+Node: 743 is dead.
+time: 4	 sender: 751	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 752	 residualEnergy: 3.1957606552168727E-6
+Node: 757 is dead.
+Node: 764 is dead.
+time: 4	 sender: 766	 residualEnergy: 5.657070141751319E-5
+Node: 771 is dead.
+time: 4	 sender: 785	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 797	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 814	 residualEnergy: 3.400000241526868E-4
+Node: 818 is dead.
+Node: 831 is dead.
+Node: 846 is dead.
+time: 4	 sender: 850	 residualEnergy: 3.400000241526868E-4
+Node: 855 is dead.
+time: 4	 sender: 866	 residualEnergy: 1.3922448852099478E-4
+Node: 879 is dead.
+time: 4	 sender: 886	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 892	 residualEnergy: 3.400000241526868E-4
+Node: 900 is dead.
+time: 4	 sender: 905	 residualEnergy: 9.781026165001094E-6
+Node: 907 is dead.
+Node: 928 is dead.
+time: 4	 sender: 935	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 937	 residualEnergy: 7.156185165513307E-5
+time: 4	 sender: 938	 residualEnergy: 1.1016418284270912E-4
+time: 4	 sender: 940	 residualEnergy: 3.400000241526868E-4
+time: 4	 sender: 954	 residualEnergy: 3.400000241526868E-4
+Node: 963 is dead.
+Node: 967 is dead.
+Node: 974 is dead.
+time: 4	 sender: 984	 residualEnergy: 7.96830136096105E-5
+time: 4	 sender: 990	 residualEnergy: 5.984284507576376E-5
+Node: 991 is dead.
+time: 5	 sender: 2	 residualEnergy: 3.0800002423347905E-4
+time: 5	 sender: 3	 residualEnergy: 1.779076046659611E-5
+Node: 6 is dead.
+time: 5	 sender: 49	 residualEnergy: 5.947638055658899E-5
+time: 5	 sender: 57	 residualEnergy: 3.0800002423347905E-4
+Node: 77 is dead.
+Node: 91 is dead.
+time: 5	 sender: 92	 residualEnergy: 3.0800002423347905E-4
+Node: 119 is dead.
+time: 5	 sender: 135	 residualEnergy: 3.0800002423347905E-4
+Node: 158 is dead.
+time: 5	 sender: 173	 residualEnergy: 3.0800002423347905E-4
+time: 5	 sender: 181	 residualEnergy: 3.0800002423347905E-4
+Node: 240 is dead.
+Node: 257 is dead.
+time: 5	 sender: 274	 residualEnergy: 3.0800002423347905E-4
+Node: 289 is dead.
+Node: 306 is dead.
+time: 5	 sender: 312	 residualEnergy: 1.0105104593094438E-6
+Node: 341 is dead.
+Node: 378 is dead.
+time: 5	 sender: 395	 residualEnergy: 9.877218326437287E-5
+time: 5	 sender: 444	 residualEnergy: 3.0800002423347905E-4
+Node: 464 is dead.
+time: 5	 sender: 475	 residualEnergy: 1.526219057268463E-5
+time: 5	 sender: 483	 residualEnergy: 1.0330797158530913E-4
+time: 5	 sender: 493	 residualEnergy: 3.0800002423347905E-4
+Node: 496 is dead.
+Node: 497 is dead.
+Node: 500 is dead.
+time: 5	 sender: 508	 residualEnergy: 3.0800002423347905E-4
+Node: 524 is dead.
+time: 5	 sender: 533	 residualEnergy: 5.4303927754517645E-6
+Node: 567 is dead.
+Node: 574 is dead.
+time: 5	 sender: 598	 residualEnergy: 3.0800002423347905E-4
+time: 5	 sender: 604	 residualEnergy: 3.0800002423347905E-4
+time: 5	 sender: 623	 residualEnergy: 3.2600884878775105E-5
+time: 5	 sender: 624	 residualEnergy: 3.0800002423347905E-4
+time: 5	 sender: 665	 residualEnergy: 3.0800002423347905E-4
+time: 5	 sender: 684	 residualEnergy: 3.0800002423347905E-4
+time: 5	 sender: 694	 residualEnergy: 1.0924742309725843E-4
+Node: 695 is dead.
+Node: 697 is dead.
+Node: 704 is dead.
+time: 5	 sender: 735	 residualEnergy: 3.0800002423347905E-4
+time: 5	 sender: 738	 residualEnergy: 7.439188993885182E-5
+Node: 742 is dead.
+Node: 751 is dead.
+Node: 752 is dead.
+time: 5	 sender: 766	 residualEnergy: 2.4570701498305425E-5
+Node: 785 is dead.
+time: 5	 sender: 797	 residualEnergy: 4.9190795834874734E-5
+time: 5	 sender: 814	 residualEnergy: 3.0800002423347905E-4
+time: 5	 sender: 850	 residualEnergy: 3.0800002423347905E-4
+time: 5	 sender: 866	 residualEnergy: 1.0722448860178702E-4
+time: 5	 sender: 886	 residualEnergy: 3.0800002423347905E-4
+time: 5	 sender: 892	 residualEnergy: 7.257706238306127E-5
+Node: 905 is dead.
+time: 5	 sender: 935	 residualEnergy: 3.0800002423347905E-4
+Node: 937 is dead.
+Node: 938 is dead.
+Node: 940 is dead.
+time: 5	 sender: 954	 residualEnergy: 3.0800002423347905E-4
+Node: 984 is dead.
+time: 5	 sender: 990	 residualEnergy: 2.7842845156555995E-5
+time: 6	 sender: 2	 residualEnergy: 2.760000243142713E-4
+Node: 3 is dead.
+Node: 49 is dead.
+time: 6	 sender: 57	 residualEnergy: 2.760000243142713E-4
+Node: 92 is dead.
+Node: 135 is dead.
+time: 6	 sender: 173	 residualEnergy: 2.760000243142713E-4
+time: 6	 sender: 181	 residualEnergy: 2.760000243142713E-4
+Node: 274 is dead.
+Node: 312 is dead.
+Node: 395 is dead.
+Node: 444 is dead.
+Node: 475 is dead.
+Node: 483 is dead.
+time: 6	 sender: 493	 residualEnergy: 2.760000243142713E-4
+Node: 508 is dead.
+Node: 533 is dead.
+time: 6	 sender: 598	 residualEnergy: 2.760000243142713E-4
+time: 6	 sender: 604	 residualEnergy: 2.760000243142713E-4
+time: 6	 sender: 623	 residualEnergy: 6.008849595673382E-7
+time: 6	 sender: 624	 residualEnergy: 2.760000243142713E-4
+time: 6	 sender: 665	 residualEnergy: 2.760000243142713E-4
+time: 6	 sender: 684	 residualEnergy: 2.760000243142713E-4
+time: 6	 sender: 694	 residualEnergy: 7.724742317805067E-5
+Node: 735 is dead.
+time: 6	 sender: 738	 residualEnergy: 4.239189001964405E-5
+Node: 766 is dead.
+Node: 797 is dead.
+time: 6	 sender: 814	 residualEnergy: 2.760000243142713E-4
+Node: 850 is dead.
+Node: 866 is dead.
+Node: 886 is dead.
+time: 6	 sender: 892	 residualEnergy: 4.057706246385351E-5
+Node: 935 is dead.
+Node: 954 is dead.
+Node: 990 is dead.
+time: 7	 sender: 2	 residualEnergy: 2.4400002439506352E-4
+time: 7	 sender: 57	 residualEnergy: 2.4400002439506352E-4
+Node: 173 is dead.
+time: 7	 sender: 181	 residualEnergy: 2.4400002439506352E-4
+time: 7	 sender: 493	 residualEnergy: 2.4400002439506352E-4
+time: 7	 sender: 598	 residualEnergy: 2.4400002439506352E-4
+time: 7	 sender: 604	 residualEnergy: 2.4400002439506352E-4
+Node: 623 is dead.
+Node: 624 is dead.
+Node: 665 is dead.
+time: 7	 sender: 684	 residualEnergy: 2.4400002439506352E-4
+time: 7	 sender: 694	 residualEnergy: 4.52474232588429E-5
+time: 7	 sender: 738	 residualEnergy: 1.0391890100436285E-5
+time: 7	 sender: 814	 residualEnergy: 2.4400002439506352E-4
+Node: 892 is dead.
+time: 8	 sender: 2	 residualEnergy: 2.1200002447585575E-4
+Node: 57 is dead.
+time: 8	 sender: 181	 residualEnergy: 2.1200002447585575E-4
+Node: 493 is dead.
+Node: 598 is dead.
+Node: 604 is dead.
+Node: 684 is dead.
+time: 8	 sender: 694	 residualEnergy: 1.3247423339635134E-5
+Node: 738 is dead.
+time: 8	 sender: 814	 residualEnergy: 2.1200002447585575E-4
+time: 9	 sender: 2	 residualEnergy: 1.8000002455664799E-4
+Node: 181 is dead.
+Node: 694 is dead.
+time: 9	 sender: 814	 residualEnergy: 1.8000002455664799E-4
+time: 10	 sender: 2	 residualEnergy: 1.4800002463744022E-4
+time: 10	 sender: 814	 residualEnergy: 1.4800002463744022E-4
+time: 11	 sender: 2	 residualEnergy: 1.1600002471823245E-4
+time: 11	 sender: 814	 residualEnergy: 1.1600002471823245E-4
+time: 12	 sender: 2	 residualEnergy: 8.400002479902469E-5
+Node: 814 is dead.
+time: 13	 sender: 2	 residualEnergy: 5.200002487981692E-5
+time: 14	 sender: 2	 residualEnergy: 2.0000024960609153E-5
+Node: 2 is dead.
