@@ -14,6 +14,13 @@ public class FloodingMessageControl extends Message {
 
 
     public FloodingMessageControl(double energy, Node sender, int hops, long ID) {
+        this.setID(ID);
+        this.energy = energy;
+        this.sender = sender;
+        this.hops = hops;
+    }
+    public FloodingMessageControl(double energy, Node sender, int hops, short chunk) {
+        this.chunk = chunk;
         this.energy = energy;
         this.sender = sender;
         this.hops = hops;
