@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JSensor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/JSensor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

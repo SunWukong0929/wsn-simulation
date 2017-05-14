@@ -1,0 +1,9 @@
+time: 20	 sensorID: 1	 sendTo: 581
+time: 30	 sensorID: 2	 sendTo: 248
+time: 40	 sensorID: 3	 sendTo: 30
+time: 50	 sensorID: 4	 sendTo: 110
+time: 60	 sensorID: 5	 sendTo: 223
+time: 70	 sensorID: 6	 sendTo: 370
+time: 80	 sensorID: 7	 sendTo: 250
+time: 90	 sensorID: 8	 sendTo: 810
+time: 100	 sensorID: 9	 sendTo: 131
