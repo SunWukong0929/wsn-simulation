@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jenetics-3.8.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../wsn-simulation/JSensor/lib/jenetics-3.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wsn-simulation/JSensor/lib/JSensor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
