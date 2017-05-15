@@ -35,7 +35,7 @@ public class FloodingNode extends Node {
     // Constants
 
     public final double PACKET_SIZE = 400;
-    public final double INITIAL_NODE_ENERGY = 5 * Math.pow(10, -3);
+    public final double INITIAL_NODE_ENERGY = 5 * Math.pow(10, -1);
     public final double IDLE_STATE_ENERGY = this.PACKET_SIZE * 5 * Math.pow(10, -9);
     public final double ACQUIRE_ENERGY = this.PACKET_SIZE * 50 * Math.pow(10, -9);
     public final double PROCESS_ENERGY = this.PACKET_SIZE * 30 * Math.pow(10, -9);
@@ -78,7 +78,6 @@ public class FloodingNode extends Node {
 
     public synchronized void updateResidualEnergy(boolean isClusterHead) {
         this.residualEnergy -= this.getEnergyExpenditure(isClusterHead);
-        System.out.println("residualEnergy: " + this.residualEnergy + " : ID: " + this.getID());
         if (this.residualEnergy < 0) {
             this.residualEnergy = 0;
             this.isDead = true;
@@ -86,7 +85,7 @@ public class FloodingNode extends Node {
         } else {
             this.notification();
         }
-
+        System.out.println("residualEnergy: " + this.residualEnergy + " : ID: " + this.getID());
     }
 
     @Override
@@ -176,15 +175,13 @@ public class FloodingNode extends Node {
         // GA FINISH
 
         // UPDATE RESIDUAL ENERGY FOR EACH NODE
-
-        for (int i = 1; i < result.getChromosome().as(BitChromosome.class).toCanonicalString().length(); i++) {
-            FloodingNode node = (FloodingNode) Jsensor.runtime.getSensorByID(i + 1);
+        for (int i = 1; i < result.getChromosome().length(); i++) {
+            FloodingNode node = (FloodingNode) Jsensor.getNodeByID(i + 1);
             if (node.residualEnergy > 0)
                 node.updateResidualEnergy(result.getChromosome().getGene(i).getBit());
         }
         this.multicast(new HeaderControl(result.getChromosome().as(BitChromosome.class).toCanonicalString(),
                 0, this.getChunk()));
-        System.out.println("send heads");
     }
 
     public void notification() {
@@ -199,7 +196,7 @@ public class FloodingNode extends Node {
 
     public Node closer() {
         int id = 1;
-        for (int i = 0; i < Jsensor.getNumNodes(); i++) {
+        for (int i = 1; i <= Jsensor.getNumNodes(); i++) {
             if (this.distance(i) < this.distance(id))
                 id = i;
         }

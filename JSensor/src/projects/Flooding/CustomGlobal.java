@@ -41,7 +41,6 @@ public class CustomGlobal extends AbsCustomGlobal {
 
 
         // IMPORTANTE É SSO AUQI
-//        System.out.println("BUNDa");
         return (int) Math.pow(fitness, 12);
     }
 
@@ -74,8 +73,7 @@ public class CustomGlobal extends AbsCustomGlobal {
     }
 
     private void send() {
-        System.out.println("go send");
-        for (int i = 2; i < Jsensor.getNumNodes(); i++) {
+        for (int i = 2; i <= Jsensor.getNumNodes(); i++) {
             if (Math.random() * 100 < 30) {
                 Node sender = Jsensor.getNodeByID(i);
 
@@ -95,6 +93,8 @@ public class CustomGlobal extends AbsCustomGlobal {
     }
 
     private boolean end() {
+//        System.out.println(Jsensor.getNumberOfEvent());
+        if(Jsensor.getNumberOfEvent() > 500)
         for (int i = 2; i <= Jsensor.getNumNodes(); i++) {
             if (!((FloodingNode) Jsensor.getNodeByID(i)).isDead)
                 return true;
