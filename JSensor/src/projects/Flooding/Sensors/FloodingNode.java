@@ -55,30 +55,15 @@ public class FloodingNode extends Node {
     public synchronized double getEnergyExpenditure(boolean isClusterHead) {
         float energyExpenditure = 0;
 
-        if (isClusterHead) {
+        if (!isClusterHead) return (ACQUIRE_ENERGY + PROCESS_ENERGY);
 
-            double distanceToSync = distanceToSync();
-
-            if (distanceToSync <= this.getCommunicationRadio()) {
-
-                // Transmitting
-                energyExpenditure += this.IDLE_STATE_ENERGY + this.PACKET_SIZE * Math.pow(distanceToSync, -4);
-                // Receiving
-                energyExpenditure += this.getNeighbours().size() * this.IDLE_STATE_ENERGY + this.PACKET_SIZE * Math.pow(distanceToSync, -4);
-            } else {
-                // Transmitting
-                energyExpenditure += this.IDLE_STATE_ENERGY + this.PACKET_SIZE * Math.pow(distanceToSync, -2);
-                // Receiving
-                energyExpenditure += this.getNeighbours().size() * this.IDLE_STATE_ENERGY + this.PACKET_SIZE * Math.pow(distanceToSync, -2);
-            }
+        double distanceToSync = distanceToSync();
+        if (distanceToSync <= this.getCommunicationRadio()) {
+            return (this.getNeighbours().size() + 1) * this.IDLE_STATE_ENERGY + 2 * this.PACKET_SIZE * Math.pow(distanceToSync, 4) + ACQUIRE_ENERGY + PROCESS_ENERGY;
         }
-
-        energyExpenditure += (ACQUIRE_ENERGY + PROCESS_ENERGY);
-
-        return energyExpenditure;
+        return (this.getNeighbours().size() + 1) * this.IDLE_STATE_ENERGY + 2 * this.PACKET_SIZE * Math.pow(distanceToSync, 8) + ACQUIRE_ENERGY + PROCESS_ENERGY;
     }
 
-    // ??
     public synchronized double distanceToSync() {
         Point here = new Point(this.position.getPosX(), this.position.getPosY());
         Point sync = new Point(Jsensor.getNodeByID(1).getPosition().getPosX(), Jsensor.getNodeByID(1).getPosition().getPosY());
@@ -178,7 +163,7 @@ public class FloodingNode extends Node {
 
     public void select() {
         BitChromosome initial = BitChromosome.of(Jsensor.getNumNodes());
-
+        System.out.println("pass");
         Factory<Genotype<BitGene>> gtf =
                 Genotype.of(initial);
 
@@ -189,19 +174,18 @@ public class FloodingNode extends Node {
         Genotype<BitGene> result = engine.stream()
                 .limit(500)
                 .collect(EvolutionResult.toBestGenotype());
+        System.out.println("passoi");
         // GA FINISH
 
         // UPDATE RESIDUAL ENERGY FOR EACH NODE
 
-        for (int i = 1; i <= result.getChromosome().as(BitChromosome.class).toCanonicalString().length(); i++) {
+        for (int i = 2; i <= result.getChromosome().as(BitChromosome.class).toCanonicalString().length(); i++) {
             FloodingNode node = (FloodingNode) Jsensor.runtime.getSensorByID(i);
             if (node.residualEnergy > 0)
                 node.updateResidualEnergy(result.getChromosome().getGene(i - 1).getBit());
         }
-        for (int i = 2; i <= result.getChromosome().as(BitChromosome.class).toCanonicalString().length(); i++) {
-            this.multicast(new HeaderControl(result.getChromosome().as(BitChromosome.class).toCanonicalString(),
-                    0, this.getChunk()));
-        }
+        this.multicast(new HeaderControl(result.getChromosome().as(BitChromosome.class).toCanonicalString(),
+                0, this.getChunk()));
     }
 
     public void notification() {
@@ -212,6 +196,15 @@ public class FloodingNode extends Node {
             FloodingMessageControl control = new FloodingMessageControl(residualEnergy, this, 0, this.getID());
             this.multicast(control);
         }
+    }
+
+    public Node closer() {
+        int id = 1;
+        for (int i = 0; i < Jsensor.getNumNodes(); i++) {
+            if (this.distance(i) < this.distance(id))
+                id = i;
+        }
+        return Jsensor.getNodeByID(id);
     }
 
 }

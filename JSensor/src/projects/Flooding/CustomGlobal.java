@@ -1,10 +1,13 @@
 package projects.Flooding;
 
+import jsensor.nodes.Node;
 import jsensor.runtime.AbsCustomGlobal;
 import jsensor.runtime.Jsensor;
+import jsensor.utils.GenerateFilesOmnet;
 import org.jenetics.BitChromosome;
 import org.jenetics.BitGene;
 import org.jenetics.Genotype;
+import projects.Flooding.Messages.FloodingMessage;
 import projects.Flooding.Sensors.FloodingNode;
 
 /**
@@ -22,20 +25,22 @@ public class CustomGlobal extends AbsCustomGlobal {
         double extremeEnergyExpenditure = 0;
         double expectedEnergyExpenditure = 0;
         double sumDistances = 0;
-
-        for (int i = 1; i <= thisChrom.length(); i++) {
+//        System.out.println(Jsensor.getNodeByID(1000)  == null);
+//        System.out.println(thisChrom.length());
+        for (int i = 1; i < 1000; i++) {
 //            System.out.println(i);
 
-            FloodingNode node = (FloodingNode) Jsensor.runtime.getSensorByID(i);
+            FloodingNode node = (FloodingNode) Jsensor.runtime.getSensorByID(i + 1);
 
-//            extremeEnergyExpenditure += node.getEnergyExpenditure(true);
-//            expectedEnergyExpenditure += node.getEnergyExpenditure(thisChrom.get(i));
-            sumDistances += node.distanceToSync();
-//
+            extremeEnergyExpenditure += node.getEnergyExpenditure(true);
+            expectedEnergyExpenditure += node.getEnergyExpenditure(thisChrom.get(i));
+            if (thisChrom.get(i))
+                sumDistances += node.distanceToSync();
+
             fitness += node.residualEnergy / node.INITIAL_NODE_ENERGY;
         }
 
-//        fitness += extremeEnergyExpenditure / expectedEnergyExpenditure;
+        fitness += extremeEnergyExpenditure / expectedEnergyExpenditure;
         fitness += 1 / sumDistances;
 
 
@@ -56,9 +61,8 @@ public class CustomGlobal extends AbsCustomGlobal {
     @Override
     public void preRound() {
         end();
-        send();
         ((FloodingNode) Jsensor.getNodeByID(1)).select();
-
+        send();
     }
 
 
@@ -73,9 +77,20 @@ public class CustomGlobal extends AbsCustomGlobal {
     }
 
     private void send() {
-        for (int i = 0; i < Jsensor.getNumNodes(); i++) {
+        for (int i = 2; i < Jsensor.getNumNodes(); i++) {
             if (Math.random() * 100 < 30) {
+                Node sender = Jsensor.getNodeByID(i);
 
+                if (((FloodingNode) sender).isDead) continue;
+
+                Node destination = ((FloodingNode) sender).closer();
+                String messagetext = "Created by the sensor: " + Integer.toString(sender.getID()) + " Path: ";
+                FloodingMessage message = new FloodingMessage(sender, destination, 0, "" + sender.getID(), sender.getChunk());
+                message.setMsg(messagetext);
+                Jsensor.log("time: " + Jsensor.currentTime + "\t sensorID: " + sender.getID() + "\t sendTo: " + destination.getID());
+
+                GenerateFilesOmnet.addStartNode(sender.getID(), destination.getID(), Jsensor.currentTime);
+                sender.multicast(message);
             }
         }
 
