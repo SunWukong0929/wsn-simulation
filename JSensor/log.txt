@@ -4030,3 +4030,91 @@ java.lang.IndexOutOfBoundsException: Index: 1000, Length: 1000
 	at jsensor.Main.run(Main.java:205)
 	at jsensor.Main.main(Main.java:79)
 
+mai 14, 2017 10:37:01 PM jsensor.Main run
+GRAVE: null
+java.lang.NullPointerException
+	at projects.Flooding.Sensors.FloodingNode.distance(FloodingNode.java:75)
+	at projects.Flooding.Sensors.FloodingNode.closer(FloodingNode.java:203)
+	at projects.Flooding.CustomGlobal.send(CustomGlobal.java:84)
+	at projects.Flooding.CustomGlobal.preRound(CustomGlobal.java:62)
+	at jsensor.runtime.AssynchronousRuntime.run(AssynchronousRuntime.java:76)
+	at jsensor.Main.run(Main.java:205)
+	at jsensor.Main.main(Main.java:79)
+
+mai 14, 2017 10:40:36 PM jsensor.Main run
+GRAVE: null
+java.lang.NullPointerException
+	at projects.Flooding.Sensors.FloodingNode.distance(FloodingNode.java:75)
+	at projects.Flooding.Sensors.FloodingNode.closer(FloodingNode.java:203)
+	at projects.Flooding.CustomGlobal.send(CustomGlobal.java:84)
+	at projects.Flooding.CustomGlobal.preRound(CustomGlobal.java:62)
+	at jsensor.runtime.AssynchronousRuntime.run(AssynchronousRuntime.java:76)
+	at jsensor.Main.run(Main.java:205)
+	at jsensor.Main.main(Main.java:79)
+
+mai 14, 2017 10:41:12 PM jsensor.Main run
+GRAVE: null
+java.lang.NullPointerException
+	at projects.Flooding.Sensors.FloodingNode.distance(FloodingNode.java:75)
+	at projects.Flooding.Sensors.FloodingNode.closer(FloodingNode.java:203)
+	at projects.Flooding.CustomGlobal.send(CustomGlobal.java:84)
+	at projects.Flooding.CustomGlobal.preRound(CustomGlobal.java:62)
+	at jsensor.runtime.AssynchronousRuntime.run(AssynchronousRuntime.java:76)
+	at jsensor.Main.run(Main.java:205)
+	at jsensor.Main.main(Main.java:79)
+
+mai 14, 2017 10:42:00 PM jsensor.Main run
+GRAVE: null
+java.lang.NullPointerException
+	at projects.Flooding.Sensors.FloodingNode.distance(FloodingNode.java:75)
+	at projects.Flooding.Sensors.FloodingNode.closer(FloodingNode.java:203)
+	at projects.Flooding.CustomGlobal.send(CustomGlobal.java:84)
+	at projects.Flooding.CustomGlobal.preRound(CustomGlobal.java:62)
+	at jsensor.runtime.AssynchronousRuntime.run(AssynchronousRuntime.java:76)
+	at jsensor.Main.run(Main.java:205)
+	at jsensor.Main.main(Main.java:79)
+
+mai 14, 2017 10:45:19 PM jsensor.Main run
+GRAVE: null
+java.lang.NullPointerException
+	at projects.Flooding.Sensors.FloodingNode.distance(FloodingNode.java:75)
+	at projects.Flooding.Sensors.FloodingNode.closer(FloodingNode.java:203)
+	at projects.Flooding.CustomGlobal.send(CustomGlobal.java:84)
+	at projects.Flooding.CustomGlobal.preRound(CustomGlobal.java:62)
+	at jsensor.runtime.AssynchronousRuntime.run(AssynchronousRuntime.java:76)
+	at jsensor.Main.run(Main.java:205)
+	at jsensor.Main.main(Main.java:79)
+
+mai 14, 2017 10:47:40 PM jsensor.Main run
+GRAVE: null
+java.lang.NullPointerException
+	at projects.Flooding.Sensors.FloodingNode.distance(FloodingNode.java:75)
+	at projects.Flooding.Sensors.FloodingNode.closer(FloodingNode.java:203)
+	at projects.Flooding.CustomGlobal.send(CustomGlobal.java:84)
+	at projects.Flooding.CustomGlobal.preRound(CustomGlobal.java:62)
+	at jsensor.runtime.AssynchronousRuntime.run(AssynchronousRuntime.java:76)
+	at jsensor.Main.run(Main.java:205)
+	at jsensor.Main.main(Main.java:79)
+
+mai 14, 2017 10:48:41 PM jsensor.Main run
+GRAVE: null
+java.lang.NullPointerException
+	at projects.Flooding.Sensors.FloodingNode.distance(FloodingNode.java:75)
+	at projects.Flooding.Sensors.FloodingNode.closer(FloodingNode.java:203)
+	at projects.Flooding.CustomGlobal.send(CustomGlobal.java:84)
+	at projects.Flooding.CustomGlobal.preRound(CustomGlobal.java:62)
+	at jsensor.runtime.AssynchronousRuntime.run(AssynchronousRuntime.java:76)
+	at jsensor.Main.run(Main.java:205)
+	at jsensor.Main.main(Main.java:79)
+
+mai 14, 2017 10:52:47 PM jsensor.Main run
+GRAVE: null
+java.lang.NullPointerException
+	at projects.Flooding.Sensors.FloodingNode.distance(FloodingNode.java:75)
+	at projects.Flooding.Sensors.FloodingNode.closer(FloodingNode.java:203)
+	at projects.Flooding.CustomGlobal.send(CustomGlobal.java:84)
+	at projects.Flooding.CustomGlobal.preRound(CustomGlobal.java:62)
+	at jsensor.runtime.AssynchronousRuntime.run(AssynchronousRuntime.java:76)
+	at jsensor.Main.run(Main.java:205)
+	at jsensor.Main.main(Main.java:79)
+

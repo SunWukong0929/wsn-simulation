@@ -25,11 +25,7 @@ public class CustomGlobal extends AbsCustomGlobal {
         double extremeEnergyExpenditure = 0;
         double expectedEnergyExpenditure = 0;
         double sumDistances = 0;
-//        System.out.println(Jsensor.getNodeByID(1000)  == null);
-//        System.out.println(thisChrom.length());
-        for (int i = 1; i < 1000; i++) {
-//            System.out.println(i);
-
+        for (int i = 1; i < Jsensor.getNumNodes(); i++) {
             FloodingNode node = (FloodingNode) Jsensor.runtime.getSensorByID(i + 1);
 
             extremeEnergyExpenditure += node.getEnergyExpenditure(true);
@@ -45,6 +41,7 @@ public class CustomGlobal extends AbsCustomGlobal {
 
 
         // IMPORTANTE É SSO AUQI
+//        System.out.println("BUNDa");
         return (int) Math.pow(fitness, 12);
     }
 
@@ -77,6 +74,7 @@ public class CustomGlobal extends AbsCustomGlobal {
     }
 
     private void send() {
+        System.out.println("go send");
         for (int i = 2; i < Jsensor.getNumNodes(); i++) {
             if (Math.random() * 100 < 30) {
                 Node sender = Jsensor.getNodeByID(i);

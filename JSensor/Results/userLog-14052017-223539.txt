@@ -1,0 +1,59 @@
+time: 0	 sender: 29	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 25	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 21	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 17	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 13	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 9	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 5	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 1	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 30	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 26	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 22	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 18	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 14	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 10	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 6	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 2	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 27	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 23	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 19	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 15	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 11	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 7	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 3	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 28	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 24	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 20	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 16	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 12	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 8	 residualEnergy: 4.999999987376214E-7
+time: 0	 sender: 4	 residualEnergy: 4.999999987376214E-7
+Node: 2 is dead.
+Node: 3 is dead.
+Node: 4 is dead.
+Node: 5 is dead.
+Node: 6 is dead.
+Node: 7 is dead.
+Node: 8 is dead.
+Node: 9 is dead.
+Node: 10 is dead.
+Node: 11 is dead.
+Node: 12 is dead.
+Node: 13 is dead.
+Node: 14 is dead.
+Node: 15 is dead.
+Node: 16 is dead.
+Node: 17 is dead.
+Node: 18 is dead.
+Node: 19 is dead.
+Node: 20 is dead.
+Node: 21 is dead.
+Node: 22 is dead.
+Node: 23 is dead.
+Node: 24 is dead.
+Node: 25 is dead.
+Node: 26 is dead.
+Node: 27 is dead.
+Node: 28 is dead.
+Node: 29 is dead.
+Node: 30 is dead.

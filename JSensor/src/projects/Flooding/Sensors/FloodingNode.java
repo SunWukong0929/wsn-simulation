@@ -35,7 +35,7 @@ public class FloodingNode extends Node {
     // Constants
 
     public final double PACKET_SIZE = 400;
-    public final double INITIAL_NODE_ENERGY = 0.0005f;
+    public final double INITIAL_NODE_ENERGY = 5 * Math.pow(10, -3);
     public final double IDLE_STATE_ENERGY = this.PACKET_SIZE * 5 * Math.pow(10, -9);
     public final double ACQUIRE_ENERGY = this.PACKET_SIZE * 50 * Math.pow(10, -9);
     public final double PROCESS_ENERGY = this.PACKET_SIZE * 30 * Math.pow(10, -9);
@@ -59,9 +59,9 @@ public class FloodingNode extends Node {
 
         double distanceToSync = distanceToSync();
         if (distanceToSync <= this.getCommunicationRadio()) {
-            return (this.getNeighbours().size() + 1) * this.IDLE_STATE_ENERGY + 2 * this.PACKET_SIZE * Math.pow(distanceToSync, 4) + ACQUIRE_ENERGY + PROCESS_ENERGY;
+            return (this.getNeighbours().size() + 1) * this.IDLE_STATE_ENERGY + 2 * this.PACKET_SIZE * Math.pow(distanceToSync, -4) + ACQUIRE_ENERGY + PROCESS_ENERGY;
         }
-        return (this.getNeighbours().size() + 1) * this.IDLE_STATE_ENERGY + 2 * this.PACKET_SIZE * Math.pow(distanceToSync, 8) + ACQUIRE_ENERGY + PROCESS_ENERGY;
+        return (this.getNeighbours().size() + 1) * this.IDLE_STATE_ENERGY + 2 * this.PACKET_SIZE * Math.pow(distanceToSync, -2) + ACQUIRE_ENERGY + PROCESS_ENERGY;
     }
 
     public synchronized double distanceToSync() {
@@ -163,7 +163,6 @@ public class FloodingNode extends Node {
 
     public void select() {
         BitChromosome initial = BitChromosome.of(Jsensor.getNumNodes());
-        System.out.println("pass");
         Factory<Genotype<BitGene>> gtf =
                 Genotype.of(initial);
 
@@ -172,20 +171,20 @@ public class FloodingNode extends Node {
                 .build();
 
         Genotype<BitGene> result = engine.stream()
-                .limit(500)
+                .limit(30)
                 .collect(EvolutionResult.toBestGenotype());
-        System.out.println("passoi");
         // GA FINISH
 
         // UPDATE RESIDUAL ENERGY FOR EACH NODE
 
-        for (int i = 2; i <= result.getChromosome().as(BitChromosome.class).toCanonicalString().length(); i++) {
-            FloodingNode node = (FloodingNode) Jsensor.runtime.getSensorByID(i);
+        for (int i = 1; i < result.getChromosome().as(BitChromosome.class).toCanonicalString().length(); i++) {
+            FloodingNode node = (FloodingNode) Jsensor.runtime.getSensorByID(i + 1);
             if (node.residualEnergy > 0)
-                node.updateResidualEnergy(result.getChromosome().getGene(i - 1).getBit());
+                node.updateResidualEnergy(result.getChromosome().getGene(i).getBit());
         }
         this.multicast(new HeaderControl(result.getChromosome().as(BitChromosome.class).toCanonicalString(),
                 0, this.getChunk()));
+        System.out.println("send heads");
     }
 
     public void notification() {
